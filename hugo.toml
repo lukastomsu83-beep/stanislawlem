@@ -7,7 +7,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 
-[languages.cs]
+[languages.cs] 
   locale = "cs-CZ"
   languageName = "Čeština"
 
