@@ -1,0 +1,36 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<div class="post-description">{{ . }}</div>{{ end }}
+</header>
+
+<div class="book-grid">
+  {{ range .Pages }}
+  <a href="{{ .Permalink }}" class="book-card">
+    {{ with .Params.cover.image }}
+      <div class="book-cover">
+        <img src="{{ . }}" alt="{{ $.Params.cover.alt | default $.Title }}" loading="lazy" />
+      </div>
+    {{ else }}
+      <div class="book-cover book-cover--placeholder">
+        <span>{{ .Title }}</span>
+      </div>
+    {{ end }}
+    <div class="book-info">
+      <h3 class="book-title">{{ .Title }}</h3>
+      {{ with .Params.authors }}
+        <p class="book-author">{{ delimit . ", " }}</p>
+      {{ end }}
+      <div class="book-meta">
+        {{ with .Params.year }}<span class="book-year">{{ . }}</span>{{ end }}
+        {{ with .Params.rating }}
+          <span class="book-rating">{{ range $i, $e := (seq .) }}★{{ end }}</span>
+        {{ end }}
+      </div>
+    </div>
+  </a>
+  {{ end }}
+</div>
+
+{{- end }}
