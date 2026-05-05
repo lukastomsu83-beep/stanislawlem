@@ -1,11 +1,15 @@
 baseURL = "https://stanislawlem.cz/"
-languageCode = "en-us"
+defaultContentLanguage = "cs"
 title = "Stanislaw Lem"
 theme = "PaperMod"
 
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
+
+[languages.cs]
+  locale = "cs-CZ"
+  languageName = "Čeština"
 
 [pagination]
   pagerSize = 12
