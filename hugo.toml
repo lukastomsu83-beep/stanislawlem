@@ -45,6 +45,8 @@ buildFuture = false
   ShowWordCount = false
   ShowToc = false
   disableSpecial1stPost = true
+  mainSections = ["posts"]
+
 
   [params.homeInfoParams]
     Title = "Welcome 👋"
