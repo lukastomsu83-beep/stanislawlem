@@ -1,0 +1,55 @@
+baseURL = "https://stanislawlem.cz/"
+languageCode = "en-us"
+title = "Stanislaw Lem"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[pagination]
+  pagerSize = 12
+
+[[menu.main]]
+  identifier = "books"
+  name = "Books"
+  url = "/books/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 30
+
+[params]
+  env = "production"
+  description = "My personal book collection and occasional thoughts."
+  author = "Lukas"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowToc = false
+  disableSpecial1stPost = true
+
+  [params.homeInfoParams]
+    Title = "Welcome 👋"
+    Content = "This is my personal library — books I've read, plus occasional thoughts on what I'm reading. Browse the [collection](/books/) or read the [posts](/posts/)."
+
+[taxonomies]
+  tag = "tags"
+  genre = "genres"
+  author = "authors"
+
+[markup.goldmark.renderer]
+  unsafe = true
