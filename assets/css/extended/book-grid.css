@@ -122,5 +122,5 @@
 /* Mezera mezi welcome a obrázkem */
 main.main > .post-content {
   margin-top: 1rem !important;
-  margin-bottom: 2rem !important;
+  margin-bottom: 4rem !important;
 }
