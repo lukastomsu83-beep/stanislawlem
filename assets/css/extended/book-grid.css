@@ -80,10 +80,22 @@
   margin-bottom: 1.5rem;
 }
 
-/* Hero image on homepage */
+/* Center images in homepage content */
+.post-content {
+  text-align: center;
+}
+
 .post-content img {
   max-width: 50%;
   height: auto;
   border-radius: 6px;
-  margin: 1.5rem 0;
+  margin: 1.5rem auto;
+  display: block;
+}
+
+.post-content em {
+  display: block;
+  color: var(--secondary);
+  font-size: 0.9rem;
+  margin-top: -0.5rem;
 }

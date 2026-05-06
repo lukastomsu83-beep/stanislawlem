@@ -16,13 +16,17 @@
 </header>
 {{- end }}
 
-{{- if .Content }}
+{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+{{- partial "home_info.html" . }}
+{{- end }}
+
+{{- if and .IsHome .Content }}
 <div class="post-content">
-  {{- if not (.Param "disableAnchoredHeadings") }}
-  {{- partial "anchored_headings.html" .Content -}}
-  {{- else }}{{ .Content }}{{ end }}
+  {{ .Content }}
 </div>
 {{- end }}
+
+{{- $term := .Data.Term }}
 
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 
