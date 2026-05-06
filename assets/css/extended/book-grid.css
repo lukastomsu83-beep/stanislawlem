@@ -79,3 +79,11 @@
 .breadcrumbs {
   margin-bottom: 1.5rem;
 }
+
+/* Hero image on homepage */
+.post-content img {
+  max-width: 80%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
