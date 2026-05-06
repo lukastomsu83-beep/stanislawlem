@@ -34,7 +34,7 @@ buildFuture = false
 
 [params]
   env = "production"
-  description = "My personal book collection and occasional thoughts."
+  description = "Stanislaw Lem v CZ, moje sbírka jeho knih, zážitky ze čtení a další související věci."
   author = "Lukas"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -49,7 +49,7 @@ buildFuture = false
 
 
   [params.homeInfoParams]
-    Title = "Welcome 👋"
+    Title = "Vítejte"
     Content = "This is my personal library — books I've read, plus occasional thoughts on what I'm reading. Browse the [collection](/books/) or read the [posts](/posts/)."
 
 [taxonomies]
