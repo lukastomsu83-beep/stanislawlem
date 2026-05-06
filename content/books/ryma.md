@@ -21,7 +21,7 @@ print_run: 50000
 
 # Výtisky
 copies:
-  - bought_date: 2024-05-04
+  - bought_date: 2026-05-04
     bought_where: "TrhKnih.cz"
     bought_price: 50
     condition: "dobrý"
