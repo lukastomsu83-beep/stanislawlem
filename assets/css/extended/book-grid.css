@@ -123,3 +123,60 @@ main.main > .post-content {
   margin-top: 1rem !important;
   margin-bottom: 3rem !important;
 }
+
+/* Detail knihy */
+.book-byline {
+  font-size: 1.1rem;
+  color: var(--secondary);
+  margin-top: -0.5rem;
+  margin-bottom: 2rem;
+}
+
+.book-details dl,
+.book-copy dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 0.5rem 1.5rem;
+  margin: 0;
+}
+
+.book-details dt,
+.book-copy dt {
+  font-weight: 600;
+  color: var(--secondary);
+}
+
+.book-details dd,
+.book-copy dd {
+  margin: 0;
+}
+
+.book-copies {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.book-copies h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1.25rem;
+}
+
+.book-copy {
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--code-bg);
+  border-radius: 6px;
+}
+
+.book-copy h3 {
+  font-size: 1rem;
+  margin: 0 0 0.75rem 0;
+  font-weight: 600;
+}
+
+.book-notes {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}

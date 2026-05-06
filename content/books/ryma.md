@@ -1,11 +1,31 @@
 ---
-title: "Dune"
+title: "Rýma"
 date: 2026-04-15
-authors: ["Frank Herbert"]
-genres: ["sci-fi", "classics"]
-tags: ["favorites", "epic"]
-year: 1965
+authors: ["Stanisław Lem"]
+genres: ["sci-fi"]
+tags: ["favorites"]
 hidemeta: true
+
+# Hlavní rok = rok českého vydání (zobrazí se v hlavičce a v gridu)
+year: 1978
+
+# Originál
+original_title: "Katar"
+original_year: 1976
+
+# České vydání
+translator: "Helena Stachová"
+publisher: "Mladá fronta"
+pages: 178
+print_run: 50000
+
+# Výtisky
+copies:
+  - bought_date: 2024-05-04
+    bought_where: "TrhKnih.cz"
+    bought_price: 50
+    condition: "dobrý"
+    note: ""
 ---
 
 A masterpiece of world-building. Herbert layers ecology, religion, politics, and prophecy into something that feels less like a novel and more like an artifact from another civilization.

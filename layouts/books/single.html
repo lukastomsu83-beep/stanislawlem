@@ -1,0 +1,80 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{- partial "breadcrumbs.html" . }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Params.authors }}
+      <div class="book-byline">
+        {{ delimit . ", " }}{{ with $.Params.year }} · {{ . }}{{ end }}
+      </div>
+    {{- end }}
+  </header>
+
+  <div class="book-details">
+    <dl>
+      {{- with .Params.original_title }}
+        <dt>Originální název</dt>
+        <dd>{{ . }}{{ with $.Params.original_year }} ({{ . }}){{ end }}</dd>
+      {{- end }}
+      {{- with .Params.translator }}
+        <dt>Překlad</dt>
+        <dd>{{ . }}</dd>
+      {{- end }}
+      {{- with .Params.publisher }}
+        <dt>Vydavatel</dt>
+        <dd>{{ . }}</dd>
+      {{- end }}
+      {{- with .Params.pages }}
+        <dt>Počet stran</dt>
+        <dd>{{ . }}</dd>
+      {{- end }}
+      {{- with .Params.print_run }}
+        <dt>Náklad</dt>
+        <dd>{{ . }} výtisků</dd>
+      {{- end }}
+    </dl>
+  </div>
+
+  {{- with .Params.copies }}
+  <div class="book-copies">
+    <h2>Mé výtisky ({{ len . }})</h2>
+    {{- range $i, $copy := . }}
+    <div class="book-copy">
+      <h3>Výtisk {{ add $i 1 }}</h3>
+      <dl>
+        {{- with $copy.bought_date }}
+          <dt>Koupeno</dt>
+          <dd>{{ time.Format "2. ledna 2006" . }}</dd>
+        {{- end }}
+        {{- with $copy.bought_where }}
+          <dt>Kde</dt>
+          <dd>{{ . }}</dd>
+        {{- end }}
+        {{- with $copy.bought_price }}
+          <dt>Cena</dt>
+          <dd>{{ . }} Kč</dd>
+        {{- end }}
+        {{- with $copy.condition }}
+          <dt>Stav</dt>
+          <dd>{{ . }}</dd>
+        {{- end }}
+        {{- with $copy.note }}
+          <dt>Poznámka</dt>
+          <dd>{{ . }}</dd>
+        {{- end }}
+      </dl>
+    </div>
+    {{- end }}
+  </div>
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content book-notes">
+    {{ .Content }}
+  </div>
+  {{- end }}
+
+</article>
+
+{{- end }}
