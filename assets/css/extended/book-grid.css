@@ -81,16 +81,13 @@
 }
 
 /* Center images in homepage content */
-.post-content {
-  text-align: center;
-}
-
 .post-content img {
   max-width: 30%;
   height: auto;
   border-radius: 6px;
   margin: 1.5rem auto;
   display: block;
+  text-align: center;
 }
 
 .post-content em {
