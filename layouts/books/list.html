@@ -6,6 +6,12 @@
   {{ with .Description }}<div class="post-description">{{ . }}</div>{{ end }}
 </header>
 
+{{- if .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
 <div class="book-grid">
   {{ range .Pages }}
   <a href="{{ .Permalink }}" class="book-card">
