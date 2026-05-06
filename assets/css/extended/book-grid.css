@@ -74,3 +74,8 @@
   color: #f5b301;
   letter-spacing: 1px;
 }
+
+/* Větší mezera mezi breadcrumbs a nadpisem stránky */
+.breadcrumbs {
+  margin-bottom: 1.5rem;
+}
