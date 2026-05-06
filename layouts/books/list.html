@@ -29,12 +29,10 @@
       {{ with .Params.authors }}
         <p class="book-author">{{ delimit . ", " }}</p>
       {{ end }}
-      <div class="book-meta">
+     <div class="book-meta">
         {{ with .Params.year }}<span class="book-year">{{ . }}</span>{{ end }}
-        {{ with .Params.rating }}
-          <span class="book-rating">{{ range $i, $e := (seq .) }}★{{ end }}</span>
-        {{ end }}
-      </div>
+     </div>
+
     </div>
   </a>
   {{ end }}

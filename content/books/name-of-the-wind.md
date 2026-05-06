@@ -5,7 +5,6 @@ authors: ["Patrick Rothfuss"]
 genres: ["fantasy"]
 tags: ["favorites"]
 year: 2007
-rating: 5
 hidemeta: true
 ---
 

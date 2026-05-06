@@ -5,7 +5,6 @@ authors: ["Frank Herbert"]
 genres: ["sci-fi", "classics"]
 tags: ["favorites", "epic"]
 year: 1965
-rating: 5
 hidemeta: true
 ---
 
