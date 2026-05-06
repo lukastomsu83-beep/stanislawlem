@@ -110,11 +110,19 @@
   margin-bottom: 1rem;
 }
 
-/* Menší mezera mezi welcome blokem a obsahem _index.md (obrázek) */
-main.main > .post-content {
-  margin-top: 1rem;
+/* Zmenšit velké mezery kolem welcome bloku na úvodní stránce */
+.first-entry {
+  min-height: auto !important;
+  margin: 1rem 0 !important;
+  padding: 1rem 0 !important;
 }
 
-main.main > .post-content img {
-  margin-top: 0.5rem;
+.first-entry.home-info {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Mezera mezi welcome a obrázkem */
+main.main > .post-content {
+  margin-top: 1rem !important;
 }
