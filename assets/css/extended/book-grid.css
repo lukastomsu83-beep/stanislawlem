@@ -99,3 +99,22 @@
   font-size: 0.9rem;
   margin-top: -0.5rem;
 }
+
+/* Menší mezery na úvodní stránce */
+.home-info {
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+.home-info .post-content {
+  margin-bottom: 1rem;
+}
+
+/* Menší mezera mezi welcome blokem a obsahem _index.md (obrázek) */
+main.main > .post-content {
+  margin-top: 1rem;
+}
+
+main.main > .post-content img {
+  margin-top: 0.5rem;
+}
