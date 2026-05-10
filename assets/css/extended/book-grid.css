@@ -229,3 +229,13 @@ main.main > .post-content {
   text-underline-offset: 2px;
 }
 
+/* Hlavička: logo vlevo, menu hned vedle, switcher úplně vpravo */
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo-switches {
+  margin-left: auto;
+}
