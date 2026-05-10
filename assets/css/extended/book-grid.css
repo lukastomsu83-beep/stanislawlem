@@ -224,6 +224,7 @@ main.main > .post-content {
 
 /* Podtržení loga v hlavičce */
 .logo a {
-  border-bottom: 2px solid var(--primary);
-  padding-bottom: 0px;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
 }
