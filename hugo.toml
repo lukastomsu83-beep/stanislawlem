@@ -1,6 +1,6 @@
 baseURL = "https://stanislawlem.cz/"
 defaultContentLanguage = "cs"
-title = "Stanislaw Lem"
+title = "StanislawLem.cz"
 theme = "PaperMod"
 
 enableRobotsTXT = true
