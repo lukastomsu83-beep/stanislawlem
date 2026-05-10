@@ -9,12 +9,12 @@ S největší pravděpodobností se dá očekávat, že tímto nejlepším odbor
 
 Snad to zní trochu troufale, namyšleně či arogantně, ale toto je moje motivace a ambice. Je možné, že selžu, pak bude tento web svědectvím o marném snažení.
 
-Lem utvářel můj vztah k sci-fi už od dětství, kdy jsem v rodinné knihovně našel Pánův hlas a Dokonalou Prázdnotu. Díky němu výrazně preferuji hard sci-fi, zaměřenou na vědeckost a psychologii. 
+Lem utvářel můj vztah k sci-fi už od dětství, kdy jsem v rodinné knihovně našel *Pánův hlas* a *Dokonalou Prázdnotu*. Díky němu výrazně preferuji hard sci-fi, zaměřenou na vědeckost a psychologii. 
 
 Líbí se mi chladná logika a filosofiie, se kterou Lem přistupuje ke sci-fi tématům. Nemožnost vzájemné komunikace/pochopení při případném kontaktu s mimozemskou civilizací, skutečnost, že pravděpodobně existují formy života, které nejsme ani schopni rozpoznat, dopady umělé super inteligence, simulační teorie...
 
 Je radost číst myšlenky člověka, který přemýšlí a myslí a domýšlí. Je radost číst Lema. 
 
-**Prohlášení**: Ačkoliv umělá inteligence pomohla při tvorbě technické stránky tohoto webu, veškeré texty a fotografie knih jsou výhradně mým dílem.
+**Prohlášení**: Ačkoliv umělá inteligence pomohla při tvorbě technické stránky tohoto webu, veškeré texty a fotografie knih jsou **výhradně mým dílem**.
 
 Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: your@email.com
