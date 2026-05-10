@@ -16,7 +16,7 @@ original_year: 1976
 # České vydání
 translator: "Helena Stachová"
 publisher: "Mladá fronta"
-pages: 178
+pages: 184
 print_run: 50000
 
 gallery:
