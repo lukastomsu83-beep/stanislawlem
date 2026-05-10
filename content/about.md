@@ -5,7 +5,7 @@ hidemeta: true
 
 Jmenuju se Lukáš a dal jsem si za cíl sesbírat všechny knihy Stanisłava Lema v češtině, přečíst je a stát se jedním z největších znalců (možná i tím největším) jeho díla u nás.
 
-S největší pravděpodobností se dá očekávat, že tímto nejlepším odborníkem se běhnem několika let (či měsíců) stane umělá inteligence (psáno v květnu 2026), ať už ve formě LLM nebo jiné. Zpřesním tedy své vyjádření: chci se stát jedním z největších **lidských** znalců (možná i tím největším) jeho díla u nás.
+S největší pravděpodobností se dá očekávat, že tímto nejlepším odborníkem se během několika let (či měsíců) stane umělá inteligence (psáno v květnu 2026), ať už ve formě LLM nebo jiné. Zpřesním tedy své vyjádření: chci se stát jedním z největších **lidských** znalců (možná i tím největším) jeho díla u nás.
 
 Snad to zní trochu troufale, namyšleně či arogantně, ale toto je moje motivace a ambice. Je možné, že selžu, pak bude tento web svědectvím o marném snažení.
 
@@ -15,6 +15,6 @@ Líbí se mi chladná logika a filosofiie, se kterou Lem přistupuje ke sci-fi t
 
 Je radost číst myšlenky člověka, který přemýšlí a myslí a domýšlí. Je radost číst Lema. 
 
-Pohlášení: Ačkoliv umělá inteligence pomohla při tvorbě technické stránky tohoto webu, veškeré texty a fotografie knih jsou výhradně mým dílem.
+**Prohlášení**: Ačkoliv umělá inteligence pomohla při tvorbě technické stránky tohoto webu, veškeré texty a fotografie knih jsou výhradně mým dílem.
 
 Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: your@email.com
