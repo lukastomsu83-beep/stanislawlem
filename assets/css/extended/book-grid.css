@@ -221,3 +221,9 @@ main.main > .post-content {
   object-fit: contain;
   display: block;
 }
+
+/* Podtržení loga v hlavičce */
+.logo a {
+  border-bottom: 2px solid var(--primary);
+  padding-bottom: 2px;
+}
