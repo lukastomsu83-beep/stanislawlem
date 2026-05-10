@@ -42,6 +42,19 @@
   </div>
   {{- end }}
 
+  {{- with .Params.gallery }}
+  <div class="book-gallery">
+    <h2>Galerie</h2>
+    <div class="book-gallery-grid">
+      {{- range . }}
+      <a href="{{ .image }}" class="book-gallery-item" data-caption="{{ .caption | default "" }}">
+        <img src="{{ .image }}" alt="{{ .caption | default "Foto knihy" }}" loading="lazy" />
+      </a>
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+
   {{- with .Params.copies }}
   <div class="book-copies">
     <h2>Mé výtisky ({{ len . }})</h2>

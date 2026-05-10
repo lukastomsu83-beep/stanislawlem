@@ -19,6 +19,14 @@ publisher: "Mladá fronta"
 pages: 178
 print_run: 50000
 
+gallery:
+  - image: "/gallery/ryma/ryma_title.jpg"
+    caption: "Obálka"
+  - image: "/gallery/ryma/ryma_back.jpg"
+    caption: "Zadní strana obálky"
+  - image: "/gallery/ryma/ryma_info.jpg"
+    caption: "Info o vydání"
+
 # Výtisky
 copies:
   - bought_date: 2026-05-04

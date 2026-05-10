@@ -180,3 +180,42 @@ main.main > .post-content {
   padding-top: 1.5rem;
   border-top: 1px solid var(--border);
 }
+
+/* Minigalerie na detailu knihy */
+.book-gallery {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+
+.book-gallery h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1.25rem;
+}
+
+.book-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 1rem;
+}
+
+.book-gallery-item {
+  display: block;
+  overflow: hidden;
+  border-radius: 6px;
+  aspect-ratio: 1 / 1;
+  background: var(--code-bg);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-gallery-item:hover {
+  transform: scale(1.03);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.book-gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
