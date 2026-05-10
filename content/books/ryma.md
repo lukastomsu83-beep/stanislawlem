@@ -26,6 +26,11 @@ copies:
     bought_price: 50
     condition: "dobrý"
     note: ""
+
+cover:
+    image: "/covers/ryma.jpg"
+    alt: "Obálka knihy Rýma"
+    relative: false
 ---
 
 A masterpiece of world-building. Herbert layers ecology, religion, politics, and prophecy into something that feels less like a novel and more like an artifact from another civilization.
