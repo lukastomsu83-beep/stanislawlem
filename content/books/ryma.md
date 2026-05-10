@@ -28,7 +28,7 @@ copies:
     note: ""
 
 cover:
-    image: "/covers/ryma.jpg"
+    image: "/covers/ryma_title.jpg"
     alt: "Obálka knihy Rýma"
     relative: false
 ---
