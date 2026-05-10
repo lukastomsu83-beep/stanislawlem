@@ -50,7 +50,7 @@ buildFuture = false
 
   [params.homeInfoParams]
     Title = "Vítejte"
-    Content = "Stanislaw Lem v CZ, moje sbírka jeho knih, zážitky ze čtení a další související věci. Mrkněte na [sbírku](/books/) nebo na [články](/posts/)."
+    Content = "Stanislaw Lem v CZ, moje sbírka jeho knih, zážitky ze čtení a další související věci. Sledujte, jak se pokouším stát největším znalcem Lema v Česku. Mrkněte na [sbírku](/books/) nebo na [články](/posts/)."
 
 [taxonomies]
   tag = "tags"
