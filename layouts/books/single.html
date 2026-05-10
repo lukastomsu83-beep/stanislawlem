@@ -36,6 +36,12 @@
     </dl>
   </div>
 
+    {{- if .Content }}
+  <div class="post-content book-notes">
+    {{ .Content }}
+  </div>
+  {{- end }}
+
   {{- with .Params.copies }}
   <div class="book-copies">
     <h2>Mé výtisky ({{ len . }})</h2>
@@ -69,11 +75,7 @@
   </div>
   {{- end }}
 
-  {{- if .Content }}
-  <div class="post-content book-notes">
-    {{ .Content }}
-  </div>
-  {{- end }}
+
 
 </article>
 
