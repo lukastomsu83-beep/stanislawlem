@@ -229,15 +229,3 @@ main.main > .post-content {
   text-underline-offset: 2px;
 }
 
-/* Theme switcher přesunout na úplně pravou stranu hlavičky */
-/* Theme toggle vpravo, oddělený od loga */
-.logo .logo-switches {
-  position: absolute;
-  right: 20px;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.header-nav {
-  position: relative;
-}
