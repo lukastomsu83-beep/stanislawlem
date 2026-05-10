@@ -90,11 +90,13 @@
   text-align: center;
 }
 
-.post-content em {
+/* Caption: kurzíva hned po obrázku v post-content */
+.post-content img + em {
   display: block;
   color: var(--secondary);
   font-size: 0.9rem;
   margin-top: -0.5rem;
+  text-align: center;
 }
 
 /* Menší mezery na úvodní stránce */
