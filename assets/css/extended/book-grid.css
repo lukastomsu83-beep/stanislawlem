@@ -230,21 +230,14 @@ main.main > .post-content {
 }
 
 /* Theme switcher přesunout na úplně pravou stranu hlavičky */
+/* Theme toggle vpravo, oddělený od loga */
+.logo .logo-switches {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
 .header-nav {
-  display: flex;
-  align-items: center;
-}
-
-.logo {
-  flex: 0 0 auto;
-}
-
-#menu {
-  flex: 1;
-  margin-right: 0;
-}
-
-.logo-switches {
-  order: 99;
-  margin-left: auto;
+  position: relative;
 }
