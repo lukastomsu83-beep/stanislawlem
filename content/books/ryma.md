@@ -26,7 +26,8 @@ gallery:
     caption: "Zadní strana obálky"
   - image: "/gallery/ryma/ryma_info.jpg"
     caption: "Info o vydání"
-
+  - image: "/gallery/ryma/ryma_hrbet.jpg"
+    caption: "Hřbet"
 # Výtisky
 copies:
   - bought_date: 2026-05-04
