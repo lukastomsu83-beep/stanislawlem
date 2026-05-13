@@ -18,6 +18,7 @@ translator: "Pavel Weigel"
 publisher: "Mladá fronta"
 pages: 344
 print_run: 24000
+isbn: 80-204-0186-5
 
 gallery:
   - image: "/gallery/fiasko/fiasko_title.jpg"

@@ -18,6 +18,7 @@ translator: "Helena Stachová"
 publisher: "Mladá fronta"
 pages: 184
 print_run: 50000
+isbn: 23-025-78 13/34
 
 gallery:
   - image: "/gallery/ryma/ryma_title.jpg"

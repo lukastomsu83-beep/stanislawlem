@@ -33,6 +33,10 @@
         <dt>Náklad</dt>
         <dd>{{ . }} výtisků</dd>
       {{- end }}
+      {{- with .Params.isbn }}
+        <dt>ISBN/kód</dt>
+        <dd>{{ . }}/dd>
+      {{- end }}
     </dl>
   </div>
 
