@@ -25,7 +25,7 @@ gallery:
     caption: "Obálka"
   - image: "/gallery/kyberiada/kyberiada_back.jpg"
     caption: "Zadní strana obálky"
-  - image: "/gallery/kyberiada/kyberia_dainfo.jpg"
+  - image: "/gallery/kyberiada/kyberiada_info.jpg"
     caption: "Info o vydání"
   - image: "/gallery/kyberiada/kyberiada_hrbet.jpg"
     caption: "Hřbet"
