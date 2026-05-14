@@ -244,28 +244,28 @@ main.main > .post-content {
 .collection-stats {
   display: flex;
   justify-content: center;
-  gap: 2rem;
-  margin: 2rem 0;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
   flex-wrap: wrap;
 }
 
 .stat {
   text-align: center;
-  padding: 1.5rem 2rem;
+  padding: 0.75rem 1.25rem;
   background: var(--code-bg);
-  border-radius: 8px;
-  min-width: 140px;
+  border-radius: 6px;
+  min-width: 100px;
 }
 
 .stat-number {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   font-weight: 700;
   line-height: 1;
   color: var(--primary);
 }
 
 .stat-label {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: var(--secondary);
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
 }
