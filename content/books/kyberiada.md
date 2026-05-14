@@ -15,7 +15,7 @@ original_year: 1978
 
 # České vydání
 translator: "František Jungwirth"
-publisher: "československý spisovatel"
+publisher: "Československý spisovatel"
 pages: 192
 print_run: 65000
 isbn: 23-025-78 13/34
@@ -25,7 +25,7 @@ gallery:
     caption: "Obálka"
   - image: "/gallery/kyberiada/kyberiada_back.jpg"
     caption: "Zadní strana obálky"
-  - image: "/gallery/kyberiada/kyberiadainfo.jpg"
+  - image: "/gallery/kyberiada/kyberia_dainfo.jpg"
     caption: "Info o vydání"
   - image: "/gallery/kyberiada/kyberiada_hrbet.jpg"
     caption: "Hřbet"
