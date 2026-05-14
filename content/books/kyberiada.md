@@ -18,7 +18,7 @@ translator: "František Jungwirth"
 publisher: "Československý spisovatel"
 pages: 192
 print_run: 65000
-isbn: 23-025-78 13/34
+isbn: 22-070-83 13/34
 
 gallery:
   - image: "/gallery/kyberiada/kyberiada_title.jpg"
