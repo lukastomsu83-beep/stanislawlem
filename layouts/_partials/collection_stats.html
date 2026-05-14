@@ -1,7 +1,30 @@
 {{- $books := where site.RegularPages "Section" "books" }}
+
+{{/* Spočítat celkový počet výtisků a utraceno */}}
+{{- $totalCopies := 0 }}
+{{- $totalSpent := 0 }}
+{{- range $books }}
+  {{- with .Params.copies }}
+    {{- $totalCopies = add $totalCopies (len .) }}
+    {{- range . }}
+      {{- with .bought_price }}
+        {{- $totalSpent = add $totalSpent . }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
 <div class="collection-stats">
   <div class="stat">
     <div class="stat-number">{{ len $books }}</div>
     <div class="stat-label">knih ve sbírce</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number">{{ $totalCopies }}</div>
+    <div class="stat-label">výtisků celkem</div>
+  </div>
+  <div class="stat">
+    <div class="stat-number">{{ lang.NumFmt 0 $totalSpent }} Kč</div>
+    <div class="stat-label">utraceno celkem</div>
   </div>
 </div>
