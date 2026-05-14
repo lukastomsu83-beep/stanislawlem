@@ -82,7 +82,7 @@
 
 /* Center images in homepage content */
 .post-content img {
-  max-width: 30%;
+  max-width: 90%;
   height: auto;
   border-radius: 6px;
   margin: 1.5rem auto;
