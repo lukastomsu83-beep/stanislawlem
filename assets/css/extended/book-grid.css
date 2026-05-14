@@ -239,3 +239,33 @@ main.main > .post-content {
 #menu {
   margin-left: auto;
 }
+
+/* Statistika sbírky na úvodní stránce */
+.collection-stats {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+}
+
+.stat {
+  text-align: center;
+  padding: 1.5rem 2rem;
+  background: var(--code-bg);
+  border-radius: 8px;
+  min-width: 140px;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--primary);
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--secondary);
+  margin-top: 0.5rem;
+}

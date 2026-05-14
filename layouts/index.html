@@ -30,6 +30,16 @@
 {{- partial "home_info.html" . }}
 {{- end }}
 
+{{- if .IsHome }}
+{{- partial "collection_stats.html" . }}
+{{- end }}
+
+{{- if and .IsHome .Content }}
+<div class="post-content">
+  {{ .Content }}
+</div>
+{{- end }}
+
 {{- if and .IsHome .Content }}
 <div class="post-content">
   {{ .Content }}

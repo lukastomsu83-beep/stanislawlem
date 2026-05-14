@@ -1,0 +1,7 @@
+{{- $books := where site.RegularPages "Section" "books" }}
+<div class="collection-stats">
+  <div class="stat">
+    <div class="stat-number">{{ len $books }}</div>
+    <div class="stat-label">knih ve sbírce</div>
+  </div>
+</div>
