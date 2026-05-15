@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1082)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(10,0,0,10,0,50)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 90" width="100" height="90"><path stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M 50 22 L 46 18 L 54 14 L 50 10"></path><circle fill="#1a1a1a" cx="50" cy="8" r="3"></circle><rect fill="#1a1a1a" x="20" y="22" width="60" height="56" rx="6"></rect><circle fill="#fafafa" cx="36" cy="44" r="6"></circle><circle fill="#fafafa" cx="64" cy="44" r="6"></circle><circle fill="#1a1a1a" cx="36" cy="44" r="2.5"></circle><circle fill="#1a1a1a" cx="64" cy="44" r="2.5"></circle><path stroke="#fafafa" stroke-width="3" stroke-linecap="round" fill="none" d="M 38 62 Q 50 70 62 62"></path><rect fill="#1a1a1a" x="14" y="40" width="6" height="14" rx="2"></rect><rect fill="#1a1a1a" x="80" y="40" width="6" height="14" rx="2"></rect></svg></g></g><defs><clipPath id="SvgjsClipPath1082"><rect width="1000" height="1000" x="0" y="0" rx="300" ry="300"></rect></clipPath></defs></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1083)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(10,0,0,10,0,50)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 90" width="100" height="90"><path stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M 50 22 L 46 18 L 54 14 L 50 10"></path><circle fill="#1a1a1a" cx="50" cy="8" r="3"></circle><rect fill="#1a1a1a" x="20" y="22" width="60" height="56" rx="6"></rect><circle fill="#fafafa" cx="36" cy="44" r="6"></circle><circle fill="#fafafa" cx="64" cy="44" r="6"></circle><circle fill="#1a1a1a" cx="36" cy="44" r="2.5"></circle><circle fill="#1a1a1a" cx="64" cy="44" r="2.5"></circle><path stroke="#fafafa" stroke-width="3" stroke-linecap="round" fill="none" d="M 38 62 Q 50 70 62 62"></path><rect fill="#1a1a1a" x="14" y="40" width="6" height="14" rx="2"></rect><rect fill="#1a1a1a" x="80" y="40" width="6" height="14" rx="2"></rect></svg></g></g><defs><clipPath id="SvgjsClipPath1083"><rect width="1000" height="1000" x="0" y="0" rx="350" ry="350"></rect></clipPath></defs></svg></g></svg>
