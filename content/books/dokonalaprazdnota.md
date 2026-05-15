@@ -1,5 +1,5 @@
 ---
-title: "Dokonalá prázdnota Golem XIV"
+title: "Dokonalá prázdnota / Golem XIV"
 date: 2026-05-15
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
