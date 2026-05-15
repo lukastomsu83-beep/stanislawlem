@@ -10,7 +10,7 @@ hidemeta: true
 year: 1981
 
 # Originál
-original_title: "Glos pana"
+original_title: "Głos pana"
 original_year: 1954 - 1979
 
 # České vydání
