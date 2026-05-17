@@ -42,5 +42,3 @@ cover:
     alt: "Obálka knihy Marťan"
     relative: false
 ---
-
-TBD
