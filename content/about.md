@@ -17,4 +17,4 @@ Je radost číst myšlenky člověka, který přemýšlí a myslí a domýšlí.
 
 **Prohlášení**: Ačkoliv umělá inteligence pomohla při tvorbě technické stránky tohoto webu, veškeré texty a fotografie knih jsou **výhradně mým dílem**.
 
-Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: your@email.com
+Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: stanislawlemcz@gmail.com
