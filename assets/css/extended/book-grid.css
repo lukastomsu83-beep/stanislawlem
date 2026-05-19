@@ -374,3 +374,8 @@ main.main > .post-content {
     display: none;
   }
 }
+
+/* Respektovat hidden atribut (přebíjí display: grid/flex) */
+[data-view-panel][hidden] {
+  display: none !important;
+}
