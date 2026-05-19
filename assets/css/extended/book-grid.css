@@ -269,3 +269,108 @@ main.main > .post-content {
   color: var(--secondary);
   margin-top: 0.25rem;
 }
+
+/* Books toolbar */
+.books-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+
+.toolbar-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.toolbar-sort,
+.toolbar-filter {
+  /* Placeholder pro budoucí řazení a filtrování */
+}
+
+.view-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--secondary);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.view-btn:hover {
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.view-btn.active {
+  background: var(--primary);
+  color: var(--theme);
+  border-color: var(--primary);
+}
+
+/* List view */
+.book-list {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 0;
+}
+
+.book-list-header {
+  display: grid;
+  grid-template-columns: 3fr 2fr 1fr;
+  gap: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--secondary);
+  border-bottom: 2px solid var(--border);
+}
+
+.book-row {
+  display: grid;
+  grid-template-columns: 3fr 2fr 1fr;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.15s ease;
+}
+
+.book-row:hover {
+  background: var(--code-bg);
+}
+
+.book-row .col-title {
+  font-weight: 600;
+}
+
+.book-row .col-author,
+.book-row .col-year {
+  color: var(--secondary);
+  font-size: 0.95rem;
+}
+
+/* Na mobilu skrýt sloupec autora pro úsporu místa */
+@media (max-width: 600px) {
+  .book-list-header,
+  .book-row {
+    grid-template-columns: 3fr 1fr;
+  }
+  .book-list-header .col-author,
+  .book-row .col-author {
+    display: none;
+  }
+}
