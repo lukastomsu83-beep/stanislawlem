@@ -1,5 +1,4 @@
 {{- $booksJS := resources.Get "js/books-view.js" }}
 {{- if $booksJS }}
-{{- $booksJS = $booksJS | minify }}
 <script src="{{ $booksJS.RelPermalink }}" defer></script>
 {{- end }}
