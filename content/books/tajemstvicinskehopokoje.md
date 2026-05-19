@@ -32,7 +32,7 @@ gallery:
 # Výtisky
 copies:
   - bought_date: 2026-05-10
-    bought_where: "knohobot.cz"
+    bought_where: "knihobot.cz"
     bought_price: 119
     condition: "dobrý"
     note: ""
