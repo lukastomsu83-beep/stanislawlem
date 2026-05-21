@@ -42,5 +42,6 @@ cover:
     alt: "Obálka knihy Nepřemožitelný"
     relative: false
 ---
-
+Toto je první Lem v češtině, který nebyl snadno k sehnání, tomu napovídá i pořizovací cena. Snad bylo vydáno méně kusů a čeští sběratelé/překupníci se na ně vrhli? 
+Zajímavostí je také chyba v tiráži, kde je místo Pavla Weigela uveden jako překladatel sám Lem. 
 
