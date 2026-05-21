@@ -18,7 +18,7 @@ translator: "Pavel Weigel"
 publisher: "Laser-books"
 pages: 183
 print_run: 
-isbn: 80-204-0186-5
+isbn: 80-7193-190-X
 
 gallery:
   - image: "/gallery/nepremozitelny/nepremozitelny_title.jpg"
