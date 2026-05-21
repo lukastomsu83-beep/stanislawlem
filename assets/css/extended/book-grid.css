@@ -255,6 +255,16 @@ main.main > .post-content {
   background: var(--code-bg);
   border-radius: 6px;
   min-width: 100px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.stat:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
 }
 
 .stat-number {
