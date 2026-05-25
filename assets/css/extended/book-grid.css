@@ -322,13 +322,18 @@ main.main > .post-content {
 
 .book-row {
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 4fr 1fr;
   gap: 1rem;
   padding: 0.4rem 0.75rem;
   text-decoration: none;
   color: inherit;
   border-bottom: 1px solid var(--border);
   transition: background 0.15s ease;
+}
+
+.book-list-header .col-info,
+.book-row .col-info {
+  text-align: right;
 }
 
 .book-row:hover {
