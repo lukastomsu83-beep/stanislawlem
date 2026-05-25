@@ -47,7 +47,7 @@ buildFuture = false
   disableSpecial1stPost = true
   mainSections = ["posts"]
 
-[params.label]
+  [params.label]
     text = "StanislawLem.cz"
     iconHeight = 32
     iconSVG = '''<img src="/logo-light.svg" alt="" class="logo-light" height="32"><img src="/logo-dark.svg" alt="" class="logo-dark" height="32">'''
