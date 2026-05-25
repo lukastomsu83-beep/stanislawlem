@@ -5,7 +5,7 @@
   const VIEW_KEY = 'books-view-preference';
   const SORT_KEY = 'books-sort-preference';
 
-  const viewButtons = document.querySelectorAll('.view-btn');
+  const viewSelect = document.getElementById('view-select');
   const viewPanels = document.querySelectorAll('[data-view-panel]');
   const sortSelect = document.getElementById('sort-select');
 
@@ -15,18 +15,15 @@
     viewPanels.forEach(function (panel) {
       panel.hidden = panel.getAttribute('data-view-panel') !== view;
     });
-    viewButtons.forEach(function (btn) {
-      btn.classList.toggle('active', btn.getAttribute('data-view') === view);
-    });
+    if (viewSelect) viewSelect.value = view;
     try { localStorage.setItem(VIEW_KEY, view); } catch (e) {}
   }
 
-  viewButtons.forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      setView(btn.getAttribute('data-view'));
+  if (viewSelect) {
+    viewSelect.addEventListener('change', function () {
+      setView(viewSelect.value);
     });
-  });
-
+  }
   // --- SORTING ---
   function compareString(a, b) {
     return a.localeCompare(b, 'cs', { sensitivity: 'base', numeric: true });
