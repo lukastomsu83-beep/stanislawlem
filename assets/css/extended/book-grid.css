@@ -339,7 +339,7 @@ main.main > .post-content {
   font-size: 0.9rem;
 }
 
-.book-row .col-author,
+.book-row .col-info,
 .book-row .col-year {
   color: var(--secondary);
   font-size: 0.85rem;
