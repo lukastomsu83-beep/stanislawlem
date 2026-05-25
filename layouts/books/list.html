@@ -33,8 +33,23 @@
       </svg>
     </button>
   </div>
-  <!-- Sem později přijde řazení a filtrování -->
-  <div class="toolbar-group toolbar-sort"></div>
+
+  <div class="toolbar-group toolbar-sort">
+    <label for="sort-select" class="sort-label">Řadit:</label>
+    <select id="sort-select" class="sort-select">
+      <option value="title-asc">Název (A–Z)</option>
+      <option value="title-desc">Název (Z–A)</option>
+      <option value="year-asc">Rok vydání v ČR (nejstarší)</option>
+      <option value="year-desc">Rok vydání v ČR (nejnovější)</option>
+      <option value="original-asc">Rok originálu (A–Z)</option>
+      <option value="original-desc">Rok originálu (Z–A)</option>
+      <option value="copies-desc">Počet výtisků (nejvíc)</option>
+      <option value="copies-asc">Počet výtisků (nejmíň)</option>
+      <option value="spent-desc">Cena celkem (nejvíc)</option>
+      <option value="spent-asc">Cena celkem (nejmíň)</option>
+    </select>
+  </div>
+
   <div class="toolbar-group toolbar-filter"></div>
 </div>
 
@@ -42,7 +57,22 @@
 
   <div class="book-grid" data-view-panel="grid">
     {{ range .Pages }}
-    <a href="{{ .Permalink }}" class="book-card">
+    {{- $copiesCount := 0 }}
+    {{- $copiesSpent := 0 }}
+    {{- with .Params.copies }}
+      {{- $copiesCount = len . }}
+      {{- range . }}
+        {{- with .bought_price }}
+          {{- $copiesSpent = add $copiesSpent . }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    <a href="{{ .Permalink }}" class="book-card book-item"
+       data-title="{{ .Title }}"
+       data-year="{{ .Params.year | default 0 }}"
+       data-original-year="{{ .Params.original_year | default "" }}"
+       data-copies="{{ $copiesCount }}"
+       data-spent="{{ $copiesSpent }}">
       {{ with .Params.cover.image }}
         <div class="book-cover">
           <img src="{{ . }}" alt="{{ $.Params.cover.alt | default $.Title }}" loading="lazy" />
@@ -72,7 +102,22 @@
       <span class="col-year">Rok</span>
     </div>
     {{ range .Pages }}
-    <a href="{{ .Permalink }}" class="book-row">
+    {{- $copiesCount := 0 }}
+    {{- $copiesSpent := 0 }}
+    {{- with .Params.copies }}
+      {{- $copiesCount = len . }}
+      {{- range . }}
+        {{- with .bought_price }}
+          {{- $copiesSpent = add $copiesSpent . }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+    <a href="{{ .Permalink }}" class="book-row book-item"
+       data-title="{{ .Title }}"
+       data-year="{{ .Params.year | default 0 }}"
+       data-original-year="{{ .Params.original_year | default "" }}"
+       data-copies="{{ $copiesCount }}"
+       data-spent="{{ $copiesSpent }}">
       <span class="col-title">{{ .Title }}</span>
       <span class="col-author">{{ with .Params.authors }}{{ delimit . ", " }}{{ end }}</span>
       <span class="col-year">{{ with .Params.year }}{{ . }}{{ end }}</span>

@@ -390,3 +390,27 @@ main.main > .post-content {
 [data-view-panel][hidden] {
   display: none !important;
 }
+
+/* Sort dropdown */
+.sort-label {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  margin-right: 0.25rem;
+}
+
+.sort-select {
+  padding: 0.4rem 0.75rem;
+  font-size: 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--theme);
+  color: var(--primary);
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.sort-select:hover,
+.sort-select:focus {
+  border-color: var(--primary);
+  outline: none;
+}
