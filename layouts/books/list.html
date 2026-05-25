@@ -71,9 +71,6 @@
       {{ end }}
       <div class="book-info">
         <h3 class="book-title">{{ .Title }}</h3>
-        {{ with .Params.authors }}
-          <p class="book-author">{{ delimit . ", " }}</p>
-        {{ end }}
         <div class="book-meta">
           {{ with .Params.year }}<span class="book-year">{{ . }}</span>{{ end }}
         </div>
@@ -84,8 +81,7 @@
 
   <div class="book-list" data-view-panel="list" hidden>
     <div class="book-list-header">
-      <span class="col-title">Název</span>
-      <span class="col-author">Autor</span>
+      <span class="col-title">Název</span>      
       <span class="col-year">Rok</span>
     </div>
     {{ range .Pages }}
@@ -105,8 +101,7 @@
        data-original-year="{{ .Params.original_year | default "" }}"
        data-copies="{{ $copiesCount }}"
        data-spent="{{ $copiesSpent }}">
-      <span class="col-title">{{ .Title }}</span>
-      <span class="col-author">{{ with .Params.authors }}{{ delimit . ", " }}{{ end }}</span>
+      <span class="col-title">{{ .Title }}</span>      
       <span class="col-year">{{ with .Params.year }}{{ . }}{{ end }}</span>
     </a>
     {{ end }}

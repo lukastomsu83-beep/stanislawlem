@@ -308,7 +308,7 @@ main.main > .post-content {
 
 .book-list-header {
   display: grid;
-  grid-template-columns: 3fr 2fr 1fr;
+  grid-template-columns: 3fr 1fr;
   gap: 1rem;
   padding: 0.35rem 0.75rem;
   font-size: 0.7rem;
@@ -321,7 +321,7 @@ main.main > .post-content {
 
 .book-row {
   display: grid;
-  grid-template-columns: 3fr 2fr 1fr;
+  grid-template-columns: 3fr 1fr;
   gap: 1rem;
   padding: 0.4rem 0.75rem;
   text-decoration: none;
