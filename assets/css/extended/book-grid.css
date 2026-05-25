@@ -297,36 +297,7 @@ main.main > .post-content {
   gap: 0.5rem;
 }
 
-.toolbar-sort,
-.toolbar-filter {
-  /* Placeholder pro budoucí řazení a filtrování */
-}
 
-.view-btn {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 36px;
-  height: 36px;
-  padding: 0;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: transparent;
-  color: var(--secondary);
-  cursor: pointer;
-  transition: all 0.15s ease;
-}
-
-.view-btn:hover {
-  color: var(--primary);
-  border-color: var(--primary);
-}
-
-.view-btn.active {
-  background: var(--primary);
-  color: var(--theme);
-  border-color: var(--primary);
-}
 
 /* List view */
 .book-list {
