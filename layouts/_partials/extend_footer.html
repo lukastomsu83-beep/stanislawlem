@@ -1,4 +1,5 @@
 {{- $booksJS := resources.Get "js/books-view.js" }}
 {{- if $booksJS }}
-<script src="{{ $booksJS.RelPermalink }}" defer></script>
+{{- $booksJS = $booksJS | fingerprint }}
+<script src="{{ $booksJS.RelPermalink }}" integrity="{{ $booksJS.Data.Integrity }}" defer></script>
 {{- end }}
