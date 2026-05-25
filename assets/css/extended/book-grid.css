@@ -385,3 +385,24 @@ main.main > .post-content {
   border-color: var(--primary);
   outline: none;
 }
+
+/* Logo: light/dark verze podle režimu */
+.logo a .logo-dark {
+  display: none;
+}
+
+html[data-theme="dark"] .logo a .logo-light {
+  display: none;
+}
+
+html[data-theme="dark"] .logo a .logo-dark {
+  display: inline;
+}
+
+/* Vertikální zarovnání logo + text */
+.logo a {
+  display: inline-flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 0.5rem;
+}
