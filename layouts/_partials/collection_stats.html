@@ -15,15 +15,15 @@
 {{- end }}
 
 <div class="collection-stats">
-  <a href="/books/" class="stat">
+  <a href="/books/?info=year" class="stat">
     <div class="stat-number">{{ len $books }}</div>
     <div class="stat-label">knih ve sbírce</div>
   </a>
-  <a href="/books/" class="stat">
+  <a href="/books/?info=copies" class="stat">
     <div class="stat-number">{{ $totalCopies }}</div>
     <div class="stat-label">výtisků celkem</div>
   </a>
-  <a href="/books/" class="stat">
+  <a href="/books/?info=spent" class="stat">
     <div class="stat-number">{{ $totalSpent }} Kč</div>
     <div class="stat-label">utraceno celkem</div>
   </a>

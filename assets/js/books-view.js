@@ -113,6 +113,13 @@
     savedInfo = localStorage.getItem(INFO_KEY) || 'year';
   } catch (e) {}
 
+  // URL parametr přebíjí uloženou volbu
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlInfo = urlParams.get('info');
+  if (urlInfo && ['year', 'copies', 'spent'].includes(urlInfo)) {
+    savedInfo = urlInfo;
+  }
+
   setView(savedView);
   if (sortSelect) {
     sortSelect.value = savedSort;
