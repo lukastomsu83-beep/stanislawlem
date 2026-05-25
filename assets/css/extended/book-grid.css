@@ -380,7 +380,7 @@ main.main > .post-content {
   font-size: 0.85rem;
   border: 1px solid var(--border);
   border-radius: 6px;
-  background: var(--theme);
+  background: var(--code-bg);
   color: var(--primary);
   cursor: pointer;
   font-family: inherit;
