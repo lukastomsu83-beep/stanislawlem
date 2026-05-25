@@ -9,6 +9,8 @@ S největší pravděpodobností se dá očekávat, že tímto nejlepším odbor
 
 Snad to zní trochu troufale, namyšleně či arogantně, ale toto je moje motivace a ambice. Je možné, že selžu, pak bude tento web svědectvím o marném snažení.
 
+Tento web slouží primárně jako "databáze" knih v mé sbírce a místo, kam si můžu dělat poznámky a zapisovat myšlenky/nápady související s Lemem. Nehledejte zde nic více. 
+
 Lem utvářel můj vztah k sci-fi už od dětství, kdy jsem v rodinné knihovně našel *Pánův hlas* a *Dokonalou Prázdnotu*. Díky němu výrazně preferuji hard sci-fi, zaměřenou na vědeckost a psychologii. 
 
 Líbí se mi chladná logika a filosofie, se kterou Lem přistupuje ke sci-fi tématům. Nemožnost vzájemné komunikace/pochopení při případném kontaktu s mimozemskou civilizací, skutečnost, že pravděpodobně existují formy života, které nejsme ani schopni rozpoznat, dopady umělé super inteligence, simulační teorie...
