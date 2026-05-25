@@ -11,7 +11,7 @@ Snad to zní trochu troufale, namyšleně či arogantně, ale toto je moje motiv
 
 Lem utvářel můj vztah k sci-fi už od dětství, kdy jsem v rodinné knihovně našel *Pánův hlas* a *Dokonalou Prázdnotu*. Díky němu výrazně preferuji hard sci-fi, zaměřenou na vědeckost a psychologii. 
 
-Líbí se mi chladná logika a filosofiie, se kterou Lem přistupuje ke sci-fi tématům. Nemožnost vzájemné komunikace/pochopení při případném kontaktu s mimozemskou civilizací, skutečnost, že pravděpodobně existují formy života, které nejsme ani schopni rozpoznat, dopady umělé super inteligence, simulační teorie...
+Líbí se mi chladná logika a filosofie, se kterou Lem přistupuje ke sci-fi tématům. Nemožnost vzájemné komunikace/pochopení při případném kontaktu s mimozemskou civilizací, skutečnost, že pravděpodobně existují formy života, které nejsme ani schopni rozpoznat, dopady umělé super inteligence, simulační teorie...
 
 Je radost číst myšlenky člověka, který přemýšlí a myslí a domýšlí. Je radost číst Lema. 
 
