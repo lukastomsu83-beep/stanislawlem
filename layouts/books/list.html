@@ -14,10 +14,15 @@
 
 <div class="books-toolbar">
   <div class="toolbar-group toolbar-views">
-    <label for="view-select" class="sort-label">Zobrazení:</label>
+    <label for="view-select" class="sort-label">Zobrazit:</label>
     <select id="view-select" class="sort-select">
       <option value="grid">Galerie</option>
       <option value="list">Seznam</option>
+    </select>
+    <select id="info-select" class="sort-select">
+      <option value="year">Rok vydání</option>
+      <option value="copies">Počet výtisků</option>
+      <option value="spent">Cena celkem</option>
     </select>
   </div>
 
@@ -72,7 +77,9 @@
       <div class="book-info">
         <h3 class="book-title">{{ .Title }}</h3>
         <div class="book-meta">
-          {{ with .Params.year }}<span class="book-year">{{ . }}</span>{{ end }}
+          <span class="book-info-field" data-info="year">{{ with .Params.year }}{{ . }}{{ end }}</span>
+          <span class="book-info-field" data-info="copies" hidden>{{ $copiesCount }} výtisk{{ if eq $copiesCount 1 }}{{ else if and (ge $copiesCount 2) (le $copiesCount 4) }}y{{ else }}ů{{ end }}</span>
+          <span class="book-info-field" data-info="spent" hidden>{{ $copiesSpent }} Kč</span>
         </div>
       </div>
     </a>
@@ -81,8 +88,12 @@
 
   <div class="book-list" data-view-panel="list" hidden>
     <div class="book-list-header">
-      <span class="col-title">Název</span>      
-      <span class="col-year">Rok</span>
+      <span class="col-title">Název</span>
+      <span class="col-info">
+        <span class="info-label" data-info-label="year">Rok</span>
+        <span class="info-label" data-info-label="copies" hidden>Výtisky</span>
+        <span class="info-label" data-info-label="spent" hidden>Cena</span>
+      </span>
     </div>
     {{ range .Pages }}
     {{- $copiesCount := 0 }}
@@ -101,8 +112,12 @@
        data-original-year="{{ .Params.original_year | default "" }}"
        data-copies="{{ $copiesCount }}"
        data-spent="{{ $copiesSpent }}">
-      <span class="col-title">{{ .Title }}</span>      
-      <span class="col-year">{{ with .Params.year }}{{ . }}{{ end }}</span>
+      <span class="col-title">{{ .Title }}</span>
+      <span class="col-info">
+        <span class="book-info-field" data-info="year">{{ with .Params.year }}{{ . }}{{ end }}</span>
+        <span class="book-info-field" data-info="copies" hidden>{{ $copiesCount }}</span>
+        <span class="book-info-field" data-info="spent" hidden>{{ $copiesSpent }} Kč</span>
+      </span>
     </a>
     {{ end }}
   </div>

@@ -8,6 +8,9 @@
   const viewSelect = document.getElementById('view-select');
   const viewPanels = document.querySelectorAll('[data-view-panel]');
   const sortSelect = document.getElementById('sort-select');
+  const INFO_KEY = 'books-info-preference';
+  const infoSelect = document.getElementById('info-select');
+
 
   // --- VIEW SWITCHING ---
   function setView(view) {
@@ -84,17 +87,39 @@
     });
   }
 
+    function applyInfo(infoKey) {
+    document.querySelectorAll('.book-info-field').forEach(function (el) {
+      el.hidden = el.getAttribute('data-info') !== infoKey;
+    });
+    document.querySelectorAll('[data-info-label]').forEach(function (el) {
+      el.hidden = el.getAttribute('data-info-label') !== infoKey;
+    });
+    try { localStorage.setItem(INFO_KEY, infoKey); } catch (e) {}
+  }
+
+  if (infoSelect) {
+    infoSelect.addEventListener('change', function () {
+      applyInfo(infoSelect.value);
+    });
+  }
+
   // --- INIT ---
   let savedView = 'grid';
   let savedSort = 'title-asc';
+  let savedInfo = 'year';
   try {
     savedView = localStorage.getItem(VIEW_KEY) || 'grid';
     savedSort = localStorage.getItem(SORT_KEY) || 'title-asc';
+    savedInfo = localStorage.getItem(INFO_KEY) || 'year';
   } catch (e) {}
 
   setView(savedView);
   if (sortSelect) {
     sortSelect.value = savedSort;
     applySort(savedSort);
+  }
+  if (infoSelect) {
+    infoSelect.value = savedInfo;
+    applyInfo(savedInfo);
   }
 })();
