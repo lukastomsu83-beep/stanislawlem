@@ -24,7 +24,21 @@
     <div class="stat-label">výtisků ve sbírce celkem</div>
   </a>
   <a href="/books/?info=spent" class="stat">
-    <div class="stat-number">{{ $totalSpent }} Kč</div>
+    <div class="stat-number">
+      {{- $s := printf "%d" $totalSpent -}}
+      {{- $n := len $s -}}
+      {{- if le $n 3 -}}
+        {{ $s }}
+      {{- else if eq $n 4 -}}
+        {{ substr $s 0 1 }} {{ substr $s 1 3 }}
+      {{- else if eq $n 5 -}}
+        {{ substr $s 0 2 }} {{ substr $s 2 3 }}
+      {{- else if eq $n 6 -}}
+        {{ substr $s 0 3 }} {{ substr $s 3 3 }}
+      {{- else if eq $n 7 -}}
+        {{ substr $s 0 1 }} {{ substr $s 1 3 }} {{ substr $s 4 3 }}
+      {{- end }} Kč
+    </div>
     <div class="stat-label">utraceno celkem</div>
   </a>
 </div>
