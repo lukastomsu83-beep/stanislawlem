@@ -1,5 +1,5 @@
 ---
-title: "Návrat z hvězd"
+title: "Návrat z hvězd (2)"
 date: 2026-05-20
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
