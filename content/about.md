@@ -3,7 +3,7 @@ title: "O stránce"
 hidemeta: true
 ---
 
-Jmenuju se Lukáš a dal jsem si za cíl sesbírat všechny knihy Stanisłava Lema v češtině, přečíst je a stát se jedním z největších znalců (možná i tím největším) jeho díla u nás.
+Jmenuju se Lukáš a dal jsem si za cíl sesbírat všechny knihy Stanisława Lema v češtině, přečíst je a stát se jedním z největších znalců (možná i tím největším) jeho díla u nás.
 
 S největší pravděpodobností se dá očekávat, že tímto nejlepším odborníkem se během několika let (či měsíců) stane umělá inteligence (psáno v květnu 2026), ať už ve formě LLM nebo jiné. Zpřesním tedy své vyjádření: chci se stát jedním z největších **lidských** znalců (možná i tím největším) jeho díla u nás.
 
