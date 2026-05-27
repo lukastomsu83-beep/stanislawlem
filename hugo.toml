@@ -48,7 +48,7 @@ buildFuture = false
   mainSections = ["posts"]
 
   [params.homeInfoParams]
-    Title = "Vítejte"
+    Title = "Lem česky"
     Content = "Stanisław Lem v češtině: Moje sbírka jeho knih, zážitky ze čtení a další související věci. Sledujte, jak se pokouším stát znalcem Lema a jak roste moje sbírka. Podívejte se na [sbírku](/books/) nebo na [články](/posts/)."
 
 [taxonomies]
