@@ -49,7 +49,7 @@ buildFuture = false
 
   [params.homeInfoParams]
     Title = "Lem česky"
-    Content = "Stanisław Lem v češtině: Moje sbírka jeho knih, zážitky ze čtení a další související věci. Sledujte, jak se pokouším stát znalcem Lema a jak roste moje sbírka. Podívejte se na [sbírku](/books/) nebo na [články](/posts/)."
+    Content = "Stanisław Lem v češtině: Moje sbírka jeho knih a textů, zážitky ze čtení a další související věci. Sledujte, jak se pokouším stát znalcem Lema a jak roste moje sbírka. Podívejte se na [sbírku](/books/) nebo na [články](/posts/)."
 
 [taxonomies]
   tag = "tags"
