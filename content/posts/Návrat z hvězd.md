@@ -1,9 +1,9 @@
 ---
-title: "První kniha přečtena"
+title: "Návrat z hvězd"
 date: 2026-05-05
 tags: ["meta", "thoughts"]
 author: "Lukas"
-draft: false
+draft: true
 ---
 
 TBD
