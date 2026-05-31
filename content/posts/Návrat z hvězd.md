@@ -6,7 +6,7 @@ author: "Lukas"
 draft: false
 ---
 
-Druhou knihou, kterou jsem přečetl, je další neznámá - ani s Návratem z hvězd jsem se v minulosti ještě nesetkal. 
+Druhou knihou, kterou jsem přečetl, je další neznámá - ani s [Návratem z hvězd](<https://stanislawlem.cz/posts/n%C3%A1vrat-z-hv%C4%9Bzd/>) jsem se v minulosti ještě nesetkal. 
 
 Začátek nás spolu s hlavním hrdinou vrhne do cizího prostředí a společně s ním se marně snažíme zorientovat v obřím dopravní uzlu, Terminálu.
 
