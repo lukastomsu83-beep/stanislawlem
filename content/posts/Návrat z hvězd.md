@@ -16,4 +16,4 @@ Bohužel nejsem na rozdíl od hlavního hrdiny dva metry vysoký obr se svaly vy
 
 Po deseti letech v kosmu ve výhradně mužské posádce se hrdina příběhu docela drží a projevuje až překvapivě puritánské názory. Tedy do doby než potká čerstvě vdanou Eri a přichází výrazně slabší úsek knihy. Melodrama hodné dívčí literatury (ne té současné, na to je tam málo mohutných penisů).
 
-Není to špatná kniha, ale dá se s jistotou říct, že Lem napsal několik desítek lepších. Usekl bych Eri (lezla mi tím *to já jen tak* na nervy) a přidal víc z nového nastavení společnosti. Ale kdo jsem já, abych radil lemovi. 
+Není to špatná kniha, ale dá se s jistotou říct, že Lem napsal několik desítek lepších. Usekl bych Eri (lezla mi tím *to já jen tak* na nervy) a přidal víc z nového nastavení společnosti. Ale kdo jsem já, abych radil mistrovi. 
