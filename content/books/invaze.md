@@ -31,8 +31,8 @@ gallery:
     caption: "Hřbet"
 # Výtisky
 copies:
-  - bought_date: 2026-05-04
-    bought_where: "TrhKnih.cz"
+  - bought_date: 2026-05-10
+    bought_where: "knihobot.cz"
     bought_price: 189
     condition: "dobrá"
     note: ""
