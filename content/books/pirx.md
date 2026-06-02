@@ -1,5 +1,5 @@
 ---
-title: "Příběhy Pilora Pirxe"
+title: "Příběhy Pilota Pirxe"
 date: 2026-06-01
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
@@ -39,7 +39,7 @@ copies:
 
 cover:
     image: "/covers/pirx_title.jpg"
-    alt: "Obálka knihy Příběhy Pilora Pirxe"
+    alt: "Obálka knihy Příběhy Pilota Pirxe"
     relative: false
 ---
 
