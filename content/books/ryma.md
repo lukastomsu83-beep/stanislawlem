@@ -41,6 +41,7 @@ copies:
     bought_price: 15
     condition: "dobrý"
     note: ""
+    
 cover:
     image: "/covers/ryma_title.jpg"
     alt: "Obálka knihy Rýma"

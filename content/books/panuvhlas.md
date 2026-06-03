@@ -36,7 +36,6 @@ copies:
     bought_price: 46
     condition: "dobrý"
     note: ""
-copies:
   - bought_date: 2026-06-03
     bought_where: "aukro.cz"
     bought_price: 15
