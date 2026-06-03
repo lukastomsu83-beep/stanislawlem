@@ -36,6 +36,11 @@ copies:
     bought_price: 76
     condition: "dobrý"
     note: ""
+  - bought_date: 2026-06-03
+    bought_where: "aukro.cz"
+    bought_price: 15
+    condition: "dobrý"
+    note: ""
 
 cover:
     image: "/covers/vzpominky_title.jpg"

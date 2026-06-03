@@ -36,7 +36,11 @@ copies:
     bought_price: 50
     condition: "dobrý"
     note: ""
-
+  - bought_date: 2026-06-03
+    bought_where: "aukro.cz"
+    bought_price: 15
+    condition: "dobrý"
+    note: ""
 cover:
     image: "/covers/ryma_title.jpg"
     alt: "Obálka knihy Rýma"
