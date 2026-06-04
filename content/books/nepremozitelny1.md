@@ -1,6 +1,6 @@
 ---
 title: "Nepřemožitelný"
-date: 2026-06-204
+date: 2026-06-04
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
 tags: ["favorites"]
