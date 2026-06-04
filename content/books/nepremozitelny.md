@@ -1,5 +1,5 @@
 ---
-title: "Nepřemožitelný"
+title: "Nepřemožitelný (3)"
 date: 2026-05-21
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
