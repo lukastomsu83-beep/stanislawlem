@@ -18,4 +18,4 @@ Po deseti letech v kosmu ve výhradně mužské posádce se hrdina příběhu do
 
 Není to špatná kniha, ale dá se s jistotou říct, že Lem napsal několik desítek lepších. Usekl bych Eri (lezla mi tím *to já jen tak* na nervy) a přidal víc z nového nastavení společnosti. Ale kdo jsem já, abych radil mistrovi. 
 
-Sám Lem ke knize později nebyl příliš shovívavý: *Štve mě sentimentalita té knihy, odvaha hrdinů, papírovost hrdinky. Něco tam zavání Remarquem a jeho třemi kamarády. Je v tom nějaké hovniválství.*
+Sám Lem ke knize později nebyl příliš shovívavý: *Štve mě sentimentalita té knihy, odvaha hrdinů, papírovost hrdinky. Něco tam zavání Remarquem a jeho Třemi kamarády. Je v tom nějaké hovniválství.*
