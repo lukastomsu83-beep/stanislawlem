@@ -9,3 +9,19 @@ draft: false
 Jako první jsem při svém (znovu)objevování Lema vybral titul, který jsem v minulosti ještě nečetl - [Hvězdné deníky Ijona Tichého](https://stanislawlem.cz/books/hvezdnedeniky1/). Navzdory tomu, že se na první pohled tváří jako groteska/satira, povídky jsou to překvapivě brutální a dost často depresivní. 
 
 Pár poznámek ke každé z nich:
+
+Sedmá cesta - Ijon v časových fluktuacích hašteřící se s nekonečnými kopiemi sebe sama. Časová smyčka dovedená ad absurdum, tam kde jiní končí, Lem teprve začíná. 
+
+Osmá cesta - Planeta Země jako objekt nemilosrdného hodnocení hvězdných politiků + jednoznačná identifikace stvořitele života na ní. A pak že pán bůh není!
+
+Jedenáctá cesta - Ijon jako špión-hlinomaz na robotí planetě. Místy hodně drsné, viz loutky dětí určené ke "chvilkám nenávisti". Hezká pointa.
+
+Dvanáctá cesta - Setkání s hvězdnými "kočovníky" a další hrátky s časem. Krátká hříčka.
+
+Třináctá cesta - Vodní planeta a ultra byrokracie, kam až mohou planetu zavést nezkrocené vládní úřády?
+
+Čtrnáctá cesta - Jednoznačně nejvtipnější povídka celého souboru. Sepulky a lov Kurdlů. Hra s jazykem.
+
+Osmnáctá cesta - Nepovedené stvoření vesmíru, stane se. 
+
+Dvacátá cesta - Alternativní pohled na optimalizované lidské dějiny. Zajímavý nápad, vytěžený (možná až přetěžený) do maxima.
