@@ -31,10 +31,10 @@ gallery:
     caption: "Hřbet"
 # Výtisky
 copies:
-  - bought_date: 2026-05-10
-    bought_where: "knihobot.cz"
-    bought_price: 99
-    condition: "dobrý"
+  - bought_date: 2026-06-01
+    bought_where: "Scifik.cz"
+    bought_price: 198
+    condition: "velmi dobrý"
     note: ""
 
 cover:
