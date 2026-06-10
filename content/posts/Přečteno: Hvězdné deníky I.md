@@ -6,8 +6,9 @@ author: "Lukas"
 draft: false
 ---
 
-Jako první jsem při svém (znovu)objevování Lema vybral titul, který jsem v minulosti ještě nečetl - [Hvězdné deníky Ijona Tichého](https://stanislawlem.cz/books/hvezdnedeniky1/). Navzdory tomu, že se na první pohled tváří jako groteska/satira, povídky jsou to překvapivě brutální a dost často depresivní. 
-Myslím, že opakované čtení - stejně jako u Kyberiády - dá vyniknout dalším detailům, které při prvním setkání mohly uniknout. Rozhodně se k Ijonovi a jeho deníkům vrátím.  
+Jako první jsem při svém (znovu)objevování Lema vybral titul, který jsem v minulosti ještě nečetl - [Hvězdné deníky Ijona Tichého](https://stanislawlem.cz/books/hvezdnedeniky1/). Navzdory tomu, že se na první pohled tváří jako groteska/satira, povídky jsou to překvapivě brutální a dost často depresivní. Myslím, že opakované čtení - stejně jako u Kyberiády - dá vyniknout dalším detailům, které při prvním setkání mohly uniknout. Rozhodně se k Ijonovi a jeho deníkům vrátím.  
+
+Nejlepší (samozřejmě dle mého názoru) jsou cety čtrnáctá a dvácátá první.
 
 Pár poznámek ke každé z nich:
 
