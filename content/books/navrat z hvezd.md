@@ -48,5 +48,5 @@ cover:
     alt: "Obálka knihy Návrat z hvězd"
     relative: false
 ---
-
+[Přečeteno](<https://stanislawlem.cz/posts/n%C3%A1vrat-z-hv%C4%9Bzd/>)
 
