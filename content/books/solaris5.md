@@ -34,7 +34,7 @@ copies:
   - bought_date: 2026-06-11
     bought_where: "knihobot.cz"
     bought_price: 319
-    condition: "velmmi dobrý"
+    condition: "velmi dobrý"
     note: ""
 
 cover:
