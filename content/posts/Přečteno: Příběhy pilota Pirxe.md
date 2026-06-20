@@ -7,7 +7,7 @@ draft: false
 ---
 
 Některé z [povídek o Pirxovi](https://stanislawlem.cz/books/pirx/) jsem už kdysi četl, jiné pro mě byly nové. 
-Popravdě nevím, co si vlastně o Pirxovi jako o člověku myslím. Na jednu stranu mi moc jako sympatická postava nepřipadá - poněkud nudný suchar lpící na pravidlech, bručoun a taky trochu poděs. 
+Popravdě nevím, co si vlastně o Pirxovi jako o člověku myslet. Na jednu stranu mi moc jako sympatická postava nepřipadá - poněkud nudný suchar lpící na pravidlech, bručoun a taky trochu introvert. 
 
 Na druhou stranu jsou to charakteristiky, které z něj dělají ideálního kandidáta pro povolání pilota ve vesmíru. Občas působí, že neumí do pěti počítat a jindy vystupuje z pozice intelektuální převahy. 
 
