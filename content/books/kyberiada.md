@@ -39,7 +39,7 @@ copies:
 
 cover:
     image: "/covers/kyberiada_title.jpg"
-    alt: "Obálka knihy Kiberiáda"
+    alt: "Obálka knihy Kyberiáda"
     relative: false
 ---
 
