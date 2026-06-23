@@ -1,5 +1,5 @@
 ---
-title: "Kyberiáda "
+title: "Kyberiáda (2)"
 date: 2026-06-23
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
