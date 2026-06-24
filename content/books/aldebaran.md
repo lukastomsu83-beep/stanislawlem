@@ -43,5 +43,15 @@ cover:
     relative: false
 ---
 
+Sbírka povídek:
+1. Vpád
+2. Přítel
+3. Test
+4. Patrola
+5. Albatros
+6. Krysa v labyrintu
+7. Invaze z Aldebaranu
+8. Noc a plíseň
+9. Kladivo
 
 
