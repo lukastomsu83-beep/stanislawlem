@@ -417,3 +417,10 @@ html[data-theme="dark"] .logo a .logo-dark {
   gap: 0.5rem;
 }
 
+/* Menší náhled obrázku u článků v seznamu */
+.post-entry .entry-cover img {
+  max-height: 200px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
