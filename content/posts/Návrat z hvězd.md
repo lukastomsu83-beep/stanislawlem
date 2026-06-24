@@ -4,11 +4,6 @@ date: 2026-05-31
 tags: ["knihy", "přečteno"]
 author: "Lukas"
 draft: false
-cover:
-    image: "/gallery/navratzhvezd/navratzhvezd_title.jpg"
-    alt: "Náhled k článku"
-    relative: false
-    hiddenInList: true
 ---
 
 Druhou knihou, kterou jsem přečetl, je další pro mě dosud neznámá - ani s [Návratem z hvězd](<https://stanislawlem.cz/books/navrat-z-hvezd-2/>) jsem se v minulosti ještě nesetkal. 
