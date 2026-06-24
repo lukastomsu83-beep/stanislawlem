@@ -1,5 +1,5 @@
 ---
-title: "Planeta Eden (2)"
+title: "Planeta Eden (3)"
 date: 2026-06-22
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
