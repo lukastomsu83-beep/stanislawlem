@@ -24,4 +24,4 @@ Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: <stan
 ---
 
 Odkazy a zdroje:
-- [Lem.nonsens.cz](<https://Lem.nonsens.cz >) - Výborný zdroj informací a web, na který částečně tématicky navazuji
+- [Lem.nonsens.cz](<https://lem.nonsens.cz/>) - Výborný zdroj informací a web, na který částečně tématicky navazuji
