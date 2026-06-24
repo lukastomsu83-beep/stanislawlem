@@ -55,7 +55,7 @@
 {{- end }}
 
 <article class="{{ $class }}">
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" ($.Param "cover.hiddenInList")) }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" true) }}
   <header class="entry-header">
     <h2 class="entry-hint-parent">
       {{- .Title }}
