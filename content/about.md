@@ -23,4 +23,5 @@ Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: <stan
 
 ---
 
-test
+Odkazy a zdroje:
+ - Lem.nonsens.cz 
