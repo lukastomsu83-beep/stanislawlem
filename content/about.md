@@ -25,4 +25,4 @@ Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: <stan
 
 Odkazy a zdroje:
 - [Lem.nonsens.cz](<https://lem.nonsens.cz/>) - Výborný zdroj informací a web, na který částečně tématicky navazuji
-- [LEGIE](<https://www.legie.info//autor/306-stanislaw-lem>) - vyčerpávající zdroj informací, diskuze, komentáře
+- Lem na [LEGIE](<https://www.legie.info//autor/306-stanislaw-lem>) - vyčerpávající zdroj informací, diskuze, komentáře
