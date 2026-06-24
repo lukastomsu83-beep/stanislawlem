@@ -87,4 +87,9 @@ cover:
     alt: "Obálka knihy Lov"
     relative: false
 ---
-
+Sbírka povídek:
+1. Lov
+2. Neštěstí
+3. Pirxovo vyprávění
+4. Altruisin
+5. Dva mladí lidé
