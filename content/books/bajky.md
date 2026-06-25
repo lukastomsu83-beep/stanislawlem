@@ -42,5 +42,17 @@ cover:
     alt: "Bajky robotů"
     relative: false
 ---
-
-
+Sbírka povídek:
+1. Tři elektrytíři
+2. Uranové uši
+3. Jak Erg transformátor bleďocha přemohl
+4. Poklady krále Biskalara
+5. Dva netvoři
+6. Bílá smrt
+7. Jak Mikromil a Gigantin počali úprk mlhovin
+8. Pohádka o počítači, který bojoval s drakem
+9. Rádci krále Hydropse
+10. Automatoušův přítel
+11. Král Globares a mudrci
+12. Pohádka o králi Murdasovi
+13. Záhada
