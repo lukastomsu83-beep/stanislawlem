@@ -50,7 +50,8 @@ Sbírka povídek:
 5. Invaze z Aldebaranu
 6. Noc a Plíseň
 7. Kladivo
-8. Matrace
-9. Můj život
+8. Exodus
+9. Matrace
+10. Můj život
 
 
