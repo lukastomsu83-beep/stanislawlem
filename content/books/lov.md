@@ -80,7 +80,12 @@ copies:
     bought_where: "aukro.cz"
     bought_price: 150
     condition: "zašlá"
-    note: ""    
+    note: ""
+  - bought_date: 2026-06-23
+    bought_where: "knihobot.cz"
+    bought_price: 229
+    condition: "zašlá, polorozpadlá vazba"
+    note: ""      
 
 cover:
     image: "/covers/lov_title.jpg"
