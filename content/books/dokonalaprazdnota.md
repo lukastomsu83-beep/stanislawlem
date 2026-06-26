@@ -42,5 +42,23 @@ cover:
     alt: "Obálka knihy Dokonalá prázdnota"
     relative: false
 ---
+Seznam textů:
+1. Stanislaw Lem – Dokonalá prázdnota
+2. Marcel Coscat – Les Robinsonades
+3. Patrick Hannahan – Gigamesh
+4. Simon Merril – Sexplosion
+5. Alfred Zellermann – Gruppenfuhrer Louis XVI.
+6. Solange Marriot – Rien du tout, ou la conséquence
+7. Joachim Fersengeld – Pericalypsis
+8. Giancarlo Spallanzani – Idiot
+9. Do yourself a book
+10. Kuno Mlatje – Odysseus z Ithaky
+11. Raymond Seurat – Toi
+12. Alistair Waynewright – Being Inc.
+13. Wilhelm Klopper – Die Kultur als Fehler
+14. César Kouska – De impossibilitate vitae; De impossibilitate prognoscendi
+15. Arthur Dobb – Non serviam
+16. Alfred Testa – Nová kosmogonie
 
++ Golem XIV
 
