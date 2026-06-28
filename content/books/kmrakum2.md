@@ -34,7 +34,7 @@ copies:
   - bought_date: 2026-06-23
     bought_where: "cervenyknir.cz"
     bought_price: 70
-    condition: "na svůj věk ok"
+    condition: "dobrý"
     note: ""
 
 cover:
