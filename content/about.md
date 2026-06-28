@@ -25,7 +25,7 @@ Pokud mě chcete kontaktovat, politovat nebo dát najevo své pohoršení: <stan
 
 Odkazy a zdroje:
 - [Lem.nonsens.cz](<https://lem.nonsens.cz/>) - výborný zdroj informací a web, na který částečně tématicky navazuji
-- Lem na [LEGIE](<https://www.legie.info//autor/306-stanislaw-lem>) - vyčerpávající zdroj informací, diskuze, komentáře
+- Lem na [LEGIE.info](<https://www.legie.info//autor/306-stanislaw-lem>) - vyčerpávající zdroj informací, diskuze, komentáře
 - Přehled českých vydání na [Lemopedii](<https://lem.wiki/w/Category:Czech>)
-- Přehled českých vydání na [scifibaze](<https://scifibaze.wz.cz/Autori/AutorL/LemS.html>)
+- Přehled českých vydání na [scifibaze.wz.cz](<https://scifibaze.wz.cz/Autori/AutorL/LemS.html>)
 
