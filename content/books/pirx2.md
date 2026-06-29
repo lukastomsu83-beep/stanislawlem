@@ -42,4 +42,13 @@ cover:
     alt: "Obálka knihy Příběhy Pilota Pirxe"
     relative: false
 ---
-
+Sbírka povídek:
+1. Test
+2. Podmíněný reflex
+3. Patrola
+4. Albatros
+5. Terminus
+6. Lov
+7. Neštěstí
+8. Ananké
+9. Pirxovo vyprávění
