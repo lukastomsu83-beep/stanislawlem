@@ -11,7 +11,7 @@ year: 1958
 
 # Originál
 original_title: "Obłok Magellana"
-original_year: 1959
+original_year: 1955
 
 # České vydání
 translator: "Jaroslav Simonides"
