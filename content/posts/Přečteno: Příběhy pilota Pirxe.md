@@ -34,6 +34,6 @@ Ačkoliv si nejsem jistý, co je Pirx přesně zač, o Lemových povídkách vě
 A to je vše. *Nebo není?!* 
 Celou dobu čtení této sbírky povídek jsem podvědomě čekal na jednu, kterou jsem si mlhavě pamatoval z dětsví. Byl jsem přesvědčený, že v ní vystupoval Pirx a zanechala na mě dojem svojí pointou, kdy lidská slabost představuje výhodu v konfliktu s neomylností stroje. Ve sbírce však žádná taková není. Už už jsem si začínal myslet, že si ji pletu s dílem jiného autora - Asimova nebo Clarka. Ale pak jsem ji našel. 
 
-*Přelíčení* - vyšlo ve sbírce [Pánův hlas](https://stanislawlem.cz/books/panuvhlas/). Bohužel ani v jednom z českých (na rozdíl od polských a jiných) vydání Příběhů pilota Pirxe ji nenajdete, což je škoda zejména v případě nového upraveného vydání z roku [2018](https://stanislawlem.cz/books/pirx2/). Byla tu šance mít “Pirxe” pěkně pohromadě. Snad příště.
+*Přelíčení* - vyšlo ve sbírce [Pánův hlas](https://stanislawlem.cz/books/panuvhlas/). Bohužel ani v jednom z českých (na rozdíl od polských a jiných) vydání Příběhů pilota Pirxe ji nenajdete, což je škoda zejména v případě nového upraveného [vydání z roku 2018](https://stanislawlem.cz/books/pirx2/). Byla tu šance mít “Pirxe” pěkně pohromadě. Snad příště.
 
 Povídka samotná je samozřejmě vynikající, pro mne spolu s *Neštěstím* tvoří vrchol "Pirxe". Pirx zde vystupuje jako zástupce lidstva, v sázce není nic menšího, než masivní nasazení AI. Diskuse o nahrazení lidských pracovníků a odhad možných následků je v podstatě přezvěst dnešního světa a nezadržitelného nástupu AI. 
