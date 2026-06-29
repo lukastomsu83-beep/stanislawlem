@@ -42,5 +42,17 @@ cover:
     alt: "Hvězdné deníky II"
     relative: false
 ---
+Sbírka povídek:
+1. I
+2. II
+3. III
+4. IV
+5. V - Pračková tragédie
+6. Ústav doktora Vliperdia
+7. Doktor Diagoras
+8. Zachraňme vesmír
+9. Futurologický kongres
+10. Profesor A. Dounda
+11. Užitek z draka
 
 
