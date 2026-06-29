@@ -1,6 +1,6 @@
 ---
 title: "Příběhy Pilota Pirxe (2)"
-date: 2026-06-029
+date: 2026-06-29
 authors: ["Stanisław Lem"]
 genres: ["sci-fi"]
 tags: ["favorites"]
@@ -33,7 +33,7 @@ gallery:
 copies:
   - bought_date: 2026-06-10
     bought_where: "TrhKnih.cz"
-    bought_price: 109
+    bought_price: 170
     condition: "dobrý"
     note: ""
 
