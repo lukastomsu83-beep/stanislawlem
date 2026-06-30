@@ -3,15 +3,15 @@ title: "O stránce"
 hidemeta: true
 ---
 
-Jmenuju se Lukáš a dal jsem si za cíl sesbírat všechny knihy Stanisława Lema v češtině, přečíst je a stát se jedním z největších znalců (možná i tím největším) jeho díla u nás.
+Jmenuju se Lukáš a dal jsem si za cíl sesbírat všechny knihy Stanisława Lema v češtině, přečíst je a stát se znalcem jeho díla u nás.
 
-S největší pravděpodobností se dá očekávat, že tímto nejlepším odborníkem se během několika let (či měsíců) stane umělá inteligence (psáno v květnu 2026), ať už ve formě LLM nebo jiné. Zpřesním tedy své vyjádření: chci se stát jedním z největších **lidských** znalců (možná i tím největším) jeho díla u nás.
+S největší pravděpodobností se dá očekávat, že nejlepším odborníkem v této oblasti se během několika let (či měsíců) stane umělá inteligence (psáno v květnu 2026), ať už ve formě LLM nebo jiné. Zpřesním tedy své vyjádření: chci se stát jedním z **lidských** znalců jeho díla u nás.
 
-Snad to zní trochu troufale, namyšleně či arogantně, ale toto je moje motivace a ambice. Je možné, že selžu, pak bude tento web svědectvím o marném snažení.
+Toto je moje motivace a ambice. Je možné, že selžu, pak bude tento web alespoň zábavným svědectvím o marném snažení.
 
-Tento web slouží primárně jako "databáze" knih v mé sbírce a místo, kam si můžu dělat poznámky a zapisovat myšlenky/nápady související s Lemem.
+Tyto stránky slouží primárně jako "databáze" knih v mé sbírce a místo, kam si můžu dělat poznámky a zapisovat myšlenky/nápady související s Lemem.
 
-Lem utvářel můj vztah k sci-fi už od dětství, kdy jsem v rodinné knihovně našel *Pánův hlas* a *Dokonalou Prázdnotu*. Díky němu výrazně preferuji hard sci-fi, zaměřenou na vědeckost a psychologii. 
+Lem utvářel můj vztah k sci-fi už od dětství, kdy jsem v rodinné knihovně našel *Pánův hlas* a *Dokonalou Prázdnotu*. Díky němu výrazně preferuji hard sci-fi, zaměřenou na vědu a psychologii. 
 
 Líbí se mi chladná logika a filosofie, se kterou Lem přistupuje ke sci-fi tématům. Nemožnost vzájemné komunikace/pochopení při případném kontaktu s mimozemskou civilizací, skutečnost, že pravděpodobně existují formy života, které nejsme ani schopni rozpoznat, dopady umělé super inteligence, simulační teorie...
 
