@@ -43,4 +43,14 @@ cover:
     relative: false
 ---
 
-
+Sbírka povídek:
+1. Zachraňme vesmír
+2. Uranové uši
+3. Dva netvoři
+4. Bílá smrt
+5. Bajka o králi Murdasovi
+6. Poklady krále Biskalara
+7. Z hvězdných deníků Ijona Tichého: Sedmá cesta
+8. Doktor Diagoras
+9. Ústav doktora Vliperdia
+10. Pravda
