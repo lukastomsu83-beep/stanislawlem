@@ -43,16 +43,17 @@ cover:
     relative: false
 ---
 1. Jak byl zachráněn svět
-2. Trurlův stroj
-3. Velký výprask
-4. Sedm výprav Trurla a Klapaciuse:
-   5. Výprava první čili Gargantuova lest
-   6. Výprava první (A) čili Trurlův elektrobard
-   7. Výprava druhá čili nabídka krále Kruťáka
-   8. Výprava třetí čili draci pravděpodobnosti
-   9. Výprava čtvrtá čili kterak Trurl zhotovil feminotron, aby prince Pantarktika zbavil milostného soužení, a jak použil později děckometu
-   10. Výprava pátá čili nezbedné kousky krále Baleriona
-   11. Výprava pátá (A) čili Trurlova rada
-   12. Výprava šestá čili jak Trurl a Klapacius stvořili démona druhého stupně, aby piráta Tlamsu přemohli
-   13. Výprava sedmá čili jak vlastní dokonalost byla Trurlovi na škodu
+1. Trurlův stroj
+1. Velký výprask
+1. Sedm výprav Trurla a Klapaciuse:
+
+   1. Výprava první čili Gargantuova lest
+   1. Výprava první (A) čili Trurlův elektrobard
+   1. Výprava druhá čili nabídka krále Kruťáka
+   1. Výprava třetí čili draci pravděpodobnosti
+   1. Výprava čtvrtá čili kterak Trurl zhotovil feminotron, aby prince Pantarktika zbavil milostného soužení, a jak použil později děckometu
+   1. Výprava pátá čili nezbedné kousky krále Baleriona
+   1. Výprava pátá (A) čili Trurlova rada
+   1. Výprava šestá čili jak Trurl a Klapacius stvořili démona druhého stupně, aby piráta Tlamsu přemohli
+   1. Výprava sedmá čili jak vlastní dokonalost byla Trurlovi na škodu
 
