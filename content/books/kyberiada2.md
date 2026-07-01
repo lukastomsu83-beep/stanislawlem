@@ -42,5 +42,26 @@ cover:
     alt: "Obálka knihy Kyberiáda"
     relative: false
 ---
-
+Sbírka povídek:
+1. Jak byl zachráněn svět
+1. Trurlův stroj
+1. Velký výprask
+1. Sedm výprav Trurla a Klapaciuse:
+   1. Výprava první čili Gargantuova lest
+   1. Výprava první (A) čili Trurlův elektrobard
+   1. Výprava druhá čili nabídka krále Kruťáka
+   1. Výprava třetí čili draci pravděpodobnosti
+   1. Výprava čtvrtá čili kterak Trurl zhotovil feminotron, aby prince Pantarktika zbavil milostného soužení, a jak použil později děckometu
+   1. Výprava pátá čili nezbedné kousky krále Baleriona
+   1. Výprava pátá (A) čili Trurlova rada
+   1. Výprava šestá čili jak Trurl a Klapacius stvořili démona druhého stupně, aby piráta Tlamsu přemohli
+   1. Výprava sedmá čili jak vlastní dokonalost byla Trurlovi na škodu
+1. Bajka o třech strojích, které vyprávěly králi Genialonovi
+1. Altrusin aneb pravdivý příběh o tom, jak poustevník Dobrycy zatoužil obšťastňovat vesmír a k čemu to vedlo
+1. Konště
+1. Cifříčkova výchova:
+   1. Vyprávění prvního Rozmrzlíka
+   1. Vyprávění druhého Rozmrzlíka
+1. Opakování
+1. Z díla CIFROTIKON čili o srdečních deviacích, superfixacích a variacích. O princi Ferritovi a princezně Krystalce
 

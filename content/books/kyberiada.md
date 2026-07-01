@@ -42,6 +42,7 @@ cover:
     alt: "Obálka knihy Kyberiáda"
     relative: false
 ---
+Sbírka povídek:
 1. Jak byl zachráněn svět
 1. Trurlův stroj
 1. Velký výprask
