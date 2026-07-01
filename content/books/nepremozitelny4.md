@@ -43,4 +43,4 @@ cover:
     relative: false
 ---
 
-
+Jednoznačně nejméně sehnatelná Lemova kniha, trvalo mi skoro tři měsíce ji ulovit. 
