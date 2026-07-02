@@ -42,3 +42,28 @@ cover:
     alt: "Obálka knihy Sex Wars"
     relative: false
 ---
+Sbírka esejů:
+1. Sex Wars čili svět a Polsko
+1. Weapon Systems of the 21st Century or the Upside-down Evolution
+1. Das kreative Vernichtungsprinzip. The World as Holocaust
+1. Záhuba a tvorba
+1. Globální globalizace
+1. Kdo nás stvořil?
+1. Budeme nesmrtelní
+1. Vyobcování inteligence
+1. Technika a tělo
+1. Šílená lokomotiva
+1. Mágové a šarlatáni
+1. Nezávislá proměnná
+1. Energetická dilemata
+1. Radioaktivní víno
+1. Cave internetum
+1. Klimatická ruleta
+1. Mezi Venuší a Marsem
+1. Těsně vedle
+1. Výstižné prognózy
+1. Tak bylo
+1. Směs paměti
+1. Život v prázdnu
+1. Moje dobrodružství s futorologií
+1. Rozkoše postmodernismu

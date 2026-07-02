@@ -42,5 +42,38 @@ cover:
     alt: "Obálka knihy Tajemství čínského pokoje"
     relative: false
 ---
-
-
+Sbírka esejů:
+1. Jak vidím svět
+1. Člověk a stroj
+1. Informační bariéra?
+1. Fantomatika
+1. Exformace
+1. Fantomatika (II)
+1. Tertium comparationis
+1. Kacířství
+1. Pěstování informace?
+1. Viry strojů, živočichů a lidí
+1. Technická past
+1. Informační labyrinty
+1. Záhady umělé inteligence
+1. Tajemství čínského pokoje
+1. Pěstování informace?
+1. Umělá neinteligence
+1. Umělá inteligence jako experimentální filozofie
+1. Rozum a síť
+1. Informace o informaci
+1. Kvantový počítač?
+1. Genové algoritmy
+1. Důmyslní roboti
+1. V zakletí prognostiky
+1. Metainformační teorie vývoje
+1. Rozum
+1. Přirozená inteligence
+1. Artificial servility
+1. Kuratela počítačů
+1. Emoční kvocient
+1. Internetové hry
+1. Rizika internetu
+1. Infoterorismus
+1. Simulace kultury
+1. Přebírání moci

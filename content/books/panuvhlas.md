@@ -47,4 +47,20 @@ cover:
     alt: "Obálka knihy Pánův hlas"
     relative: false
 ---
-
+Sbírka povídek:
+1. Topolny a Czwartek
+1. Konec světa v osm hodin
+1. Exodus
+1. Deník
+1. Přelíčení
+1. Pánův hlas [román]
+1. Maska
+1. Sto třicet sedm vteřin
+1. A existujete vlastně vůbec, pane Johnsi?
+1. Věrný robot
+1. Propletenec
+1. Měsíční noc
+1. Výpravy profesora Tarantogy
+1. Černá komnata profesora Tarantogy
+1. Podivný host profesora Tarantogy
+1. Audienční hodina profesora Tarantogy

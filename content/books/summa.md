@@ -42,6 +42,14 @@ cover:
     alt: "Obálka knihy Summa Technologiae"
     relative: false
 ---
-
+Sbírka esejů:
+1. Dilemata
+2. Dvě evoluce
+3. Kosmické civilizace
+4. Intelektronika
+5. Prolegomena všemohoucnosti
+6. Fantomologie
+7. Tvorba světů
+8. Pamflet na evoluci
 
 
