@@ -52,7 +52,7 @@ Sbírka povídek:
 1. Dvanáctá cesta
 1. Třináctá cesta
 1. Čtrnáctá cesta
-1. Vzpomínky
+1. Vzpomínky:
    1. I
    1. II
    1. III
