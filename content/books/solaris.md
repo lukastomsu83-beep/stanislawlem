@@ -17,7 +17,7 @@ original_year: 1961
 # České vydání
 translator: "Bořivoj Křemenák"
 publisher: "Československý spisovatel"
-pages: 184
+pages: 242
 print_run: 40000
 isbn: 22-064-72 13/34
 
