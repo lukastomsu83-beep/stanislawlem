@@ -47,7 +47,7 @@ cover:
     alt: "Obálka knihy Pánův hlas"
     relative: false
 ---
-Sbírka povídek:
+Sbírka povídek a her:
 1. Topolny a Czwartek
 1. Konec světa v osm hodin
 1. Exodus
