@@ -42,6 +42,18 @@ cover:
     alt: "Obálka knihy Sezam"
     relative: false
 ---
-
+Sbírka povídek:
+1. Křišťálová koule
+1. Sezam
+1. Electronic Subversive Ideas Detector
+1. Zákazník PANA BOHA
+1. Hormon agatotropický
+1. Hvězdný deník Ijona Tichého:
+   1. Předmluva
+   1. Cesta 22
+   1. Cesta 23
+   1. Cesta 24
+   1. Cesta 25
+   1. Cesta 26 a poslední
 
 
