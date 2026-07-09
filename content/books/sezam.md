@@ -50,10 +50,10 @@ Sbírka povídek:
 1. Hormon agatotropický
 1. Hvězdný deník Ijona Tichého:
    1. Předmluva
-   1. Cesta 22
-   1. Cesta 23
-   1. Cesta 24
-   1. Cesta 25
-   1. Cesta 26 a poslední
+   1. Dvacátá druhá cesta
+   1. Dvacátá třetí cesta
+   1. Dvacátá čtvrtá cesta
+   1. Dvacátá pátá cesta
+   1. Dvacátá šestá a poslední cesta
 
 
