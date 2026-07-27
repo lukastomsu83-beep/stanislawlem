@@ -37,7 +37,7 @@ copies:
     condition: "pothaný, podlepený přebal, jinak dobrý"
     note: ""
   - bought_date: 2026-07-14
-    bought_where: "aukro.cz"
+    bought_where: "TrhKnih.cz"
     bought_price: 250
     condition: "bez přebalu, jinak ok"
     note: ""
