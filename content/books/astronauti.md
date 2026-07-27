@@ -34,7 +34,7 @@ copies:
   - bought_date: 2026-07-21
     bought_where: "TrhKnih.cz"
     bought_price: 280
-    condition: "pothaný, podlepený přebal, jinak dobrý"
+    condition: "potrhaný, podlepený přebal, jinak dobrý"
     note: ""
   - bought_date: 2026-07-14
     bought_where: "TrhKnih.cz"
