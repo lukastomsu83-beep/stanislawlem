@@ -42,5 +42,5 @@ cover:
     alt: "Obálka knihy Planeta Eden"
     relative: false
 ---
-Jde o svázané přílohy časopisu Technický magazín z roků 1959 a 1960 (T59, T60). Váhal jsem, zda ji zařadit mezi "plnohodnotné" knihy. Obsahově však jde o knihu Planeta Eden a na českém antikvariátním trhu se pohybuje více kusů v tomto formátu. Považuji ji teda za jakési nulté vydání.
+Jde o svázané přílohy časopisu Technický magazín z roků 1959 a 1960 (T59, T60). Váhal jsem, zda ji zařadit mezi "plnohodnotné" knihy. Obsahově však jde o knihu Planeta Eden a na českém antikvariátním trhu se pohybuje více kusů v tomto formátu. Považuji ji tedy za jakési nulté vydání.
 
