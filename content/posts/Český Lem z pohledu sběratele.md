@@ -7,7 +7,7 @@ draft: false
 ---
 Protože jsem nedávno dokončil kompletní sbírku Lemových knih vydaných v českém jazyce, připravil jsem si malé shrnutí.
 
-#### Dostupnost knih
+### Dostupnost knih
 
 Zkompletování sbírky mi zabralo zhruba čtyři měsíce. To není nijak závratně dlouhá doba, většina knih je bez problémů dostupná v antikvariátech. Paradoxně se mi nejhůře sháněly nejnovější vydání, konkrétně to byly tituly **Nepřemožitelný** - vydání z roku [2005](<https://stanislawlem.cz/books/nepremozitelny/>) a [2018](<https://stanislawlem.cz/books/nepremozitelny4/>) a **Solaris** - vydání z roku [2021](<https://stanislawlem.cz/books/solaris5/>).
 
@@ -15,7 +15,7 @@ Důvod je zřejmý. Zatímco starší vydání vycházely až na výjimky v dese
 
 Obstarat a přečíst si fyzické Lemovy knihy v češtině tedy není nijak obtížné, pokud vám nezáleží na konkrétním vydání. Vytvořit úplnou sbírku už tak triviální není, nicméně relativní nedostupnost některých titulů je pro aktivního sběratele spíše příjemným kořením a vítanou výzvou. 
 
-#### Kde jsem nakupoval
+### Kde jsem nakupoval
 
 Knihy jsem sháněl výhradně na internetu. Zkoušel jsem i osobně navštívit několik antikvariátů, ale šance, že takto narazíte na kus, který zrovna sháníte, je mizivá. 
 
