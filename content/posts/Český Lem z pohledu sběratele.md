@@ -32,8 +32,26 @@ Jsou i další zdroje (bazoš, bazar na Databázi knih aj.), ale počet tam dost
 
 Jaká je vlastně moje motivace pro sběratelství a proč jsem si vybral Lema? Přiznám se, že prvotní impuls přišel při čtení vynikající knihy *Jonathan Strange & pan Norell* od Susanny Clarkové. Nadšení a zaujetí s jakým tam teoretičtí mágové přistupují ke studiu magie je inspirativní a zachtělo se mi také hluboko proniknout do nějaké oblasti a stát se na ni odborníklem. 
 
-Navíc to byl příhodný koníček, který měl potenciál omezit můj čas strávený u obrazovky digitálních zařízení. Odjakživa mě bavily knihy - jak po obsahové stránce tak i ve své fyzické podobě. Rozhodnutí pro sběratelství bylo přirozeným důsledkem (nepřímo motivováno touhou pana Norella vlastnit všechny magické knihy). 
+Navíc to byl příhodný koníček, který měl potenciál omezit můj čas strávený u obrazovek digitálních zařízení. Odjakživa mě bavily knihy - jak po obsahové stránce tak i ve své fyzické podobě. Rozhodnutí pro sběratelství bylo přirozeným důsledkem (nepřímo motivováno touhou pana Norella vlastnit všechny magické knihy). 
 
-A proč Lem? Jak už jsem napsal v sekci *O stránce*, byl Lem jedním z mých prvních setkání se scifi literaturou v dětství. Později jsem přešel k jiným autorům a klasické literatuře. Proto jsem teď, po jakémsi návratu ke kořenům (ať už jde o nostalgii, krizi středního věku nebo jen pouhý vrtoch mdlé mysli) a k Lemovi samotnému, mohl s potěšením konstatovat, že si s velikány "vážné" literatury nezadá. Jeho fabulační texty jsou srovnatelné s autory kalibru Nabokova či Borgese. A myšlenková bohatost má nejen ve světě sfifi pramalou konkurenci. 
+A proč Lem? Jak už jsem napsal v sekci *O stránce*, byl Lem jedním z mých prvních setkání se scifi literaturou v dětství. Později jsem přešel k jiným autorům a klasické literatuře. Proto jsem teď, po jakémsi návratu ke kořenům (ať už jde o nostalgii, krizi středního věku nebo jen pouhý vrtoch mdlé mysli) a k Lemovi samotnému, mohl s potěšením konstatovat, že si s velikány "vážné" literatury nezadá. Jeho fabulační texty jsou srovnatelné s autory kalibru Nabokova či Borgese. A myšlenková bohatost má nejen ve světě scifi pramalou konkurenci. 
 
 Rozhodnutí sesbírat a číst Lema bylo tedy veskrze šťastné. 
+
+### Budoucnost tištěných knih
+
+Krátce se zamyslím na tím, zda je pro papírové knihy - ať už nové či zejména staré - stále ještě prostor a důvod. Je! 
+
+Žijeme v době dramatické akcelerace vývoje umělé inteligence. Domnívám se, že rok 2026 bude tím posledním, kdy ještě bude možné s jistou mírou spolehlivosti označit knihy v něm vydané za dílo živého člověka. 
+
+Po tomto roce již schopnosti AI narostou natolik, že u jakýchkoliv dalších vydaných knih (fyzických či digitálních) nepůjde rozlišit, zda jde o dílo člověka, člověka s AI asistencí, nebo přímo dílo samotné AI. A nebudou to jen texty datované po tomto roce - ani u žádného **digitálního** textu vzdaného **kdykoliv v minulosti** nepůjde zaručit, že se v něm nějaká pokročilá AI nevrtala a nějaký způsobem ho neupravila. 
+
+*Jediným skutečným zdrojem lidské literární tvorby tak budou tištětěné knihy vydané před tímto zlomovým rokem.* 
+
+Dá se samozřejmě očekávat, že literární úroveň textů generovaných AI vysoce převýší možnosti jakéhokoliv člověka. Proč se tedy bránit *dokonalým* knihám?
+
+Myslím si, že s brutálním nástupem AI ve všech oblastech života v následujících letech vystane minimálně u části lidí potřeba určení lidské identity. Staré tištěné knihy budou nedílnou součástí tohoto hnutí.
+
+Toto je tedy pokus o ospravedlní mé sběratelské vášně, nakolik přesný, ukáže blízká budoucnost. 
+
+### Lovení Lovu
