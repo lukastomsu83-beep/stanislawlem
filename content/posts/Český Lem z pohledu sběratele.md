@@ -63,3 +63,7 @@ Opět zde nepopřu inspiraci panem Norellem a jeho snahou zabránit ostatním vl
 Ano, přiznám se, rozhodl jsem se skoupit všechny dostupné výtisky. Nemělo by být tak těžké, *Lov* jako výjimka z pravidla vyšel v pouhých 3000 kusech, navíc v měkké vazbě. To u takto staré knihy zaručuje poměrně omezený počet dostupných kusů.
 
 Mým cílem však není nic zlého, nechci bránit ostatním ve zkompletování Lemova českého díla. Mám naivní představu, že případný budoucí sběratel (opět: bude-li kdy jaký!) ve svém marném pátrání po tomto titulu nakonec narazí na můj web a nezbyde mu, než mne kontaktovat. I kdybych tak získal jen jednu spřízněnou duši, stojí tento experiment za to! 
+
+### Další kroky
+
+Pravděpodobně se teď zaměřím na Lemovy kratší texty rotroušené po různých časopisech a knihách. 

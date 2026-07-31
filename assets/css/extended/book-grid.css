@@ -430,7 +430,7 @@ html[data-theme="dark"] .logo a .logo-dark {
 .book-notes a,
 .entry-content a {
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-underline-offset: 3px;
 }
 
 .post-content a:hover,
