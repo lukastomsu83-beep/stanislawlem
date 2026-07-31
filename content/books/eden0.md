@@ -36,6 +36,11 @@ copies:
     bought_price: 150
     condition: "dobrý"
     note: ""
+  - bought_date: 2026-07-27
+    bought_where: "antikavion.cz"
+    bought_price: 149
+    condition: "dobrý"
+    note: "test"
 
 cover:
     image: "/covers/eden0_title.jpg"
