@@ -29,6 +29,10 @@ gallery:
     caption: "Info o vydání"
   - image: "/gallery/eden0/eden0_hrbet.jpg"
     caption: "Hřbet"
+  - image: "/gallery/eden0/T60_title.jpg"
+    caption: "Hřbet"
+  - image: "/gallery/eden0/T60_hrbet.jpg"
+    caption: "Hřbet"
 # Výtisky
 copies:
   - bought_date: 2026-07-16
