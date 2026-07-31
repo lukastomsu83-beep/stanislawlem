@@ -35,12 +35,12 @@ copies:
     bought_where: "aukro.cz"
     bought_price: 150
     condition: "dobrý"
-    note: ""
+    note: "Pouze svázané přílohy s textem knihy, bez časopisu."
   - bought_date: 2026-07-27
     bought_where: "antikavion.cz"
     bought_price: 149
     condition: "dobrý"
-    note: "test"
+    note: "Kompletní ročník 1960 časopisu Technický magazín, obsahuje závěrečné kapitoly knihy."
 
 cover:
     image: "/covers/eden0_title.jpg"
