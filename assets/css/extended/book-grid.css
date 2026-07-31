@@ -424,3 +424,17 @@ html[data-theme="dark"] .logo a .logo-dark {
   margin: 0 auto;
   display: block;
 }
+
+/* Odkazy v obsahu článků a poznámkách u knih */
+.post-content a,
+.book-notes a,
+.entry-content a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.post-content a:hover,
+.book-notes a:hover,
+.entry-content a:hover {
+  text-decoration: none;
+}
