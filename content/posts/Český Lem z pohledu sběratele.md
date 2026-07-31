@@ -44,7 +44,7 @@ Krátce se zamyslím na tím, zda je pro papírové knihy - ať už nové či ze
 
 Žijeme v době dramatické akcelerace vývoje umělé inteligence. Domnívám se, že rok 2026 bude tím posledním, kdy ještě bude možné s jistou mírou spolehlivosti označit knihy v něm vydané za dílo živého člověka. 
 
-Po tomto roce již schopnosti AI narostou natolik, že u jakýchkoliv dalších vydaných knih (fyzických či digitálních) nepůjde rozlišit, zda jde o dílo člověka, člověka s AI asistencí, nebo přímo dílo samotné AI. A nebudou to jen texty datované po tomto roce - ani u žádného **digitálního** textu vzdaného **kdykoliv v minulosti** nepůjde zaručit, že se v něm nějaká pokročilá AI nevrtala a nějaký způsobem ho neupravila. 
+Po tomto roce již schopnosti AI narostou natolik, že u jakýchkoliv dalších vydaných knih (fyzických či digitálních) nepůjde rozlišit, zda jde o dílo člověka, člověka s AI asistencí, nebo přímo dílo samotné AI. A nebudou to jen texty datované po tomto roce - ani u žádného **digitálního** textu vydaného **kdykoliv v minulosti** nepůjde zaručit, že se v něm nějaká pokročilá AI nevrtala a nějaký způsobem ho neupravila. 
 
 *Jediným skutečným zdrojem lidské literární tvorby tak budou tištětěné knihy vydané před tímto zlomovým rokem.* 
 
