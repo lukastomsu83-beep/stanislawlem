@@ -99,4 +99,4 @@ Sbírka povídek:
 4. Altruisin
 5. Dva mladí lidé
 
-Vysvětlení k množství zakoupených kusů najedte v článku [Český Lem z pohledu sběratele](<https://stanislawlem.cz/posts/%C4%8Desk%C3%BD-lem-z-pohledu-sb%C4%9Bratele/>) 
+Vysvětlení k množství zakoupených kusů najedte v článku [Český Lem z pohledu sběratele](/posts/český-lem-z-pohledu-sběratele/)
