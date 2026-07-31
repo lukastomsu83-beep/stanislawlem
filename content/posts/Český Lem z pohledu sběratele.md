@@ -66,4 +66,4 @@ Mým cílem však není nic zlého, nechci bránit ostatním ve zkompletování 
 
 ### Další kroky
 
-Pravděpodobně se teď zaměřím na Lemovy kratší texty rotroušené po různých časopisech a knihách. 
+Pravděpodobně se teď zaměřím na Lemovy kratší texty roztroušené po různých časopisech a knihách. 
