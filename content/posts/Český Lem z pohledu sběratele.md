@@ -30,7 +30,7 @@ Jsou i další zdroje (bazoš, bazar na Databázi knih aj.), ale počet tam dost
 
 ### Proč jsem nakupoval
 
-Jaká je vlastně moje motivace pro sběratelství a proč jsem si vybral Lema? Přiznám se, že prvotní impuls přišel při čtení vynikající knihy *Jonathan Strange & pan Norell* od Susanny Clarkové. Nadšení a zaujetí s jakým tam teoretičtí mágové přistupují ke studiu magie je inspirativní a zachtělo se mi také hluboko proniknout do nějaké oblasti a stát se na ni odborníklem. 
+Jaká je vlastně moje motivace pro sběratelství a proč jsem si vybral Lema? Přiznám se, že prvotní impuls přišel při čtení vynikající knihy *Jonathan Strange & pan Norell* od Susanny Clarkové. Nadšení a zaujetí s jakým tam teoretičtí mágové přistupují ke studiu magie je inspirativní a zachtělo se mi také hluboko proniknout do nějaké oblasti a stát se na ni odborníkem. 
 
 Navíc to byl příhodný koníček, který měl potenciál omezit můj čas strávený u obrazovek digitálních zařízení. Odjakživa mě bavily knihy - jak po obsahové stránce tak i ve své fyzické podobě. Rozhodnutí pro sběratelství bylo přirozeným důsledkem (nepřímo motivováno touhou pana Norella vlastnit všechny magické knihy). 
 
