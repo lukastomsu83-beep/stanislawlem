@@ -40,23 +40,23 @@ Rozhodnutí sesbírat a číst Lema bylo tedy veskrze šťastné.
 
 ### Budoucnost tištěných knih
 
-Krátce se zamyslím na tím, zda je pro papírové knihy - ať už nové či zejména staré - stále ještě prostor a důvod. Je! 
+Krátce se zamyslím nad tím, zda je pro papírové knihy - ať už nové či zejména staré - stále ještě prostor a důvod. Je! 
 
 Žijeme v době dramatické akcelerace vývoje umělé inteligence. Domnívám se, že rok 2026 (nebo 2025, či snad ještě dříve?) bude tím posledním, kdy ještě bude možné s jistou mírou spolehlivosti označit knihy v něm vydané za dílo živého člověka. 
 
 Po tomto roce již schopnosti AI narostou natolik, že u jakýchkoliv dalších vydaných knih (fyzických či digitálních) nepůjde rozlišit, zda jde o dílo člověka, člověka s AI asistencí, nebo přímo dílo samotné AI. A nebudou to jen texty datované po tomto roce - ani u žádného **digitálního** textu vydaného **kdykoliv v minulosti** nepůjde zaručit, že se v něm nějaká pokročilá AI nevrtala a nějaký způsobem ho neupravila. 
 
-*Jediným skutečným zdrojem lidské literární tvorby tak budou tištětěné knihy vydané před tímto zlomovým rokem.* 
+*Jediným skutečným zdrojem lidské literární tvorby tak budou tištěné knihy vydané před tímto zlomovým rokem.* 
 
 Dá se samozřejmě očekávat, že literární úroveň textů generovaných AI vysoce převýší možnosti jakéhokoliv člověka. Proč se tedy bránit *dokonalým* knihám?
 
-Myslím si, že s brutálním nástupem AI ve všech oblastech života v následujících letech vystane minimálně u části lidí potřeba určení lidské identity. Staré tištěné knihy budou nedílnou součástí tohoto hnutí.
+Myslím si, že s brutálním nástupem AI ve všech oblastech života v následujících letech vyvstane minimálně u části lidí potřeba určení lidské identity. Staré tištěné knihy budou nedílnou součástí tohoto hnutí.
 
 Toto je tedy pokus o ospravedlní mé sběratelské vášně, nakolik přesný, ukáže blízká budoucnost. 
 
 ### Lovení Lovu
 
-Pozorný náštěvník mého webu (bude-li kdy jaký!) si možná všimne, že vlastním větší počet výtisků Lemovy knihy [Lov](<https://stanislawlem.cz/books/lov/>). 
+Pozorný návštěvník mého webu (bude-li kdy jaký!) si možná všimne, že vlastním větší počet výtisků Lemovy knihy [Lov](<https://stanislawlem.cz/books/lov/>). 
 
 Opět zde nepopřu inspiraci panem Norellem a jeho snahou zabránit ostatním vlastnit cenné magické knihy. 
 
