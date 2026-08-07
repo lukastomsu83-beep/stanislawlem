@@ -86,7 +86,11 @@ copies:
     bought_price: 229
     condition: "zašlá, polorozpadlá vazba"
     note: ""      
-
+  - bought_date: 2026-08-05
+    bought_where: "knihobot.cz"
+    bought_price: 299
+    condition: "velmi dobrý"
+    note: ""  
 cover:
     image: "/covers/lov_title.jpg"
     alt: "Obálka knihy Lov"
