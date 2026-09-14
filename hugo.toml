@@ -21,6 +21,12 @@ buildFuture = false
   weight = 10 
 
 [[menu.main]]
+  identifier = "texts"
+  name = "Kratší texty"
+  url = "/texts/"
+  weight = 15
+
+[[menu.main]]
   identifier = "posts"
   name = "Blog"
   url = "/posts/"
@@ -49,7 +55,7 @@ buildFuture = false
 
   [params.homeInfoParams]
     Title = "Lem česky"
-    Content = "Stanisław Lem v češtině: Moje sbírka jeho knih a textů, zážitky ze čtení a další související věci. Sledujte, jak se pokouším stát znalcem Lema a jak roste moje sbírka. Podívejte se na [sbírku](/books/) nebo na [články](/posts/)."
+    Content = "Stanisław Lem v češtině: Moje sbírka jeho knih a textů, zážitky ze čtení a další související věci. Sledujte, jak se pokouším stát znalcem Lema a jak roste moje sbírka. Podívejte se na [knihy](/books/), [kratší texty](/texts/) nebo na [blog](/posts/)."
 
 [taxonomies]
   tag = "tags"

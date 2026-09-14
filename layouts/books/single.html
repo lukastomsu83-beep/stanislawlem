@@ -13,6 +13,20 @@
 
   <div class="book-details">
     <dl>
+      {{- if eq .Section "texts" }}
+      {{- with .Params.publication }}
+        <dt>Vyšlo v</dt>
+        <dd>{{ . }}</dd>
+      {{- end }}
+      {{- with .Params.issue }}
+        <dt>Číslo / ročník</dt>
+        <dd>{{ . }}</dd>
+      {{- end }}
+      {{- with .Params.page_range }}
+        <dt>Strany</dt>
+        <dd>{{ . }}</dd>
+      {{- end }}
+      {{- end }}
       {{- with .Params.original_title }}
         <dt>Originální název</dt>
         <dd>{{ . }}{{ with $.Params.original_year }} ({{ . }}){{ end }}</dd>
