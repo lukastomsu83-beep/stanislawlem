@@ -22,7 +22,7 @@ Příběh nemá výraznější slabiny, odbývá se v rychlém tempu. S trochou 
 
 *Invaze z Aldebaranu* - Invaze nepřátelských mimozemšťanů je zažehnána nepravděpodobnou těkavou látkou díky hrdinnému odboji prostého člověka. 
 
-*Noc a Plíseň* - Potřetí (po *Lymphaterově vzorci* a *Příteli*) tu máme téma lidstva ohrožovaného vlastním výtvorem. Místy až hororová atmosféra, výborné popisy a patřičně skeptický konec.
+*Noc a Plíseň* - Potřetí (po *Lymphaterově vzorci* a *Příteli*) tu máme téma lidstva ohrožovaného vlastním výtvorem. Místy až hororová atmosféra, výborné popisy a patřičně skeptický konec. Stylem mi připomněla díla Bradburyho.
 
 *Kladivo* - Člověk a stroj, lze u nich mluvit o vzájemné důvěře? Zejména, když už je člověk v podstatě nepotřebný?
 
