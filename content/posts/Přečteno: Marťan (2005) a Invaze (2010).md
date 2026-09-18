@@ -30,6 +30,6 @@ Příběh nemá výraznější slabiny, odbývá se v rychlém tempu. S trochou 
 
 *Matrace* - Pod touto povídkou by klidně mohl být podepsán Philip K. Dick. Pokročilá virtuální realita jako prostředek k originálnímu způsobu zbavení se nechtěného člověka. Jak věřit realitě, když je k neroznání od simulace?
 
-*Můj život* - Lem krátce vpomíná na své dětství a popisuje začátky literární tvorby i samotná tvůrčí proces. Také se blíže věnuje některým svým dílům. 
+*Můj život* - Lem krátce vpomíná na své dětství a popisuje začátky literární tvorby i samotný tvůrčí proces. Také se blíže věnuje některým svým dílům. 
 
 Celkově jde o povedený soubor povídek, všechny i v dnešní době obstojí (tedy až na Exodus). Nejvíce se mi líbily *Noc a Plíseň* a *Přítel*. 
