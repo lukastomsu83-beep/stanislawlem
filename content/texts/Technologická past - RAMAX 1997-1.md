@@ -1,20 +1,20 @@
 ---
 # Pouze vzor: před zveřejněním nahraď údaje a změň draft na false.
-title: "Technologická past - RAMAX 1997-1"
+title: "Technologická past - RAMAX"
 draft: false
 authors: ["Stanisław Lem"]
 hidemeta: true
 
 # Rok konkrétního českého vydání; číslo bez uvozovek.
 year: 1997
-original_title: "Technologická past"
+original_title: "Pułapka technologiczna"
 original_year: "1996"
 translator: "Pavel Weigel"
 
 
 # Název časopisu, sborníku nebo knihy, kde text vyšel.
 publication: "RAMAX"
-issue: "1997 č.1"
+issue: "1/1997"
 publisher: "Antonín Stříž"
 
 # Volitelné údaje o fyzické publikaci.
