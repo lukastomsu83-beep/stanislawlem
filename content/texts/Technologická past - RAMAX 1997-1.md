@@ -14,7 +14,7 @@ translator: "Pavel Weigel"
 
 # Název časopisu, sborníku nebo knihy, kde text vyšel.
 publication: "RAMAX"
-issue: "1/1997"
+issue: "1997 č.1"
 publisher: "Antonín Stříž"
 
 # Volitelné údaje o fyzické publikaci.
