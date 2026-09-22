@@ -14,6 +14,7 @@ original_title: "Sto trzydzieści siedem sekund"
 original_year: 1976
 
 # České vydání
+publication: "Fantastika 80"
 translator: "Helena Stachová"
 publisher: "Lidové nakladatelství"
 pages: 208
