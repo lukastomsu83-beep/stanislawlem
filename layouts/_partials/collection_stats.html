@@ -1,4 +1,18 @@
-{{- $books := where site.RegularPages "Section" "books" }}
+{{/* Každou sbírku vybíráme podle Section, protože texts používá také type: books. */}}
+{{- range slice
+  (dict "section" "books" "title" "Knihy" "one" "kniha" "few" "knihy" "many" "knih")
+  (dict "section" "texts" "title" "Kratší texty" "one" "text" "few" "texty" "many" "textů")
+}}
+{{- $collection := . }}
+{{- $books := where site.RegularPages "Section" .section }}
+{{- $count := len $books }}
+{{- $noun := .many }}
+{{- if eq $count 1 }}
+  {{- $noun = .one }}
+{{- else if and (ge $count 2) (le $count 4) }}
+  {{- $noun = .few }}
+{{- end }}
+
 
 {{/* Spočítat celkový počet výtisků a utraceno */}}
 {{- $totalCopies := 0 }}
@@ -14,16 +28,18 @@
   {{- end }}
 {{- end }}
 
+<section class="collection-stats-section" aria-labelledby="stats-{{ $collection.section }}">
+  <h2 id="stats-{{ $collection.section }}" class="collection-stats-title">{{ $collection.title }}</h2>
 <div class="collection-stats">
-  <a href="/books/?info=year" class="stat">
+  <a href="/{{ $collection.section }}/?info=year" class="stat">
     <div class="stat-number">{{ len $books }}</div>
-    <div class="stat-label">knih ve sbírce</div>
+    <div class="stat-label">{{ $noun }} ve sbírce</div>
   </a>
-  <a href="/books/?info=copies" class="stat">
+  <a href="/{{ $collection.section }}/?info=copies" class="stat">
     <div class="stat-number">{{ $totalCopies }}</div>
     <div class="stat-label">výtisků ve sbírce celkem</div>
   </a>
-  <a href="/books/?info=spent" class="stat">
+  <a href="/{{ $collection.section }}/?info=spent" class="stat">
     <div class="stat-number">
       {{- $s := printf "%d" $totalSpent -}}
       {{- $n := len $s -}}
@@ -42,3 +58,5 @@
     <div class="stat-label">utraceno celkem</div>
   </a>
 </div>
+</section>
+{{- end }}

@@ -1,0 +1,15 @@
+/* Dvě samostatné sbírky na titulní stránce; karty přebírají původní vzhled. */
+.collection-stats-section {
+  margin: 1.5rem 0;
+}
+
+.collection-stats-title {
+  margin: 0 0 0.75rem;
+  text-align: center;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+.collection-stats-section .collection-stats {
+  margin: 0;
+}
