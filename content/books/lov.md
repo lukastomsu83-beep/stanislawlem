@@ -95,7 +95,12 @@ copies:
     bought_where: "antik.knihyfryc.cz"
     bought_price: 100
     condition: "výborný"
-    note: ""    
+    note: ""
+  - bought_date: 2026-09-25
+    bought_where: "knihobot.cz"
+    bought_price: 386
+    condition: "dobrý"
+    note: ""        
 cover:
     image: "/covers/lov_title.jpg"
     alt: "Obálka knihy Lov"
