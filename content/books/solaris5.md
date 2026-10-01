@@ -36,6 +36,11 @@ copies:
     bought_price: 319
     condition: "velmi dobrý"
     note: ""
+  - bought_date: 2026-09-23
+    bought_where: "TrhKnih.cz"
+    bought_price: 200
+    condition: "velmi dobrý"
+    note: ""
 
 cover:
     image: "/covers/solaris5_title.jpg"
